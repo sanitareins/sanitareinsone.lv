@@ -1,0 +1,766 @@
+{
+  "records": [
+    {
+      "id": "SR-001",
+      "date": "14.05.2015",
+      "place": "Carnikavas novada bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās par grāmatu “Meža meitas”",
+      "sources": [
+        {
+          "url": "https://dom.lndb.lv/data/obj/file/406165.pdf?attach=true#page=11"
+        }
+      ]
+    },
+    {
+      "id": "SR-002",
+      "date": "15.11.2016",
+      "place": "Valmieras novada muzejs",
+      "kind": "Muzejs / seminārs",
+      "title": "Vidzemes folkloras materiālu digitalizācija",
+      "sources": [
+        {
+          "url": "https://lfk.lv/LFK-izbraukuma-seminars-Valmiera"
+        }
+      ]
+    },
+    {
+      "id": "SR-003",
+      "date": "18.02.2017",
+      "place": "Valkas bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās ar bērniem un grāmatas “Meža meitas” lasītājiem",
+      "sources": [
+        {
+          "url": "https://www.biblioteka.lv/valkas-biblioteka-notiks-tiksanas-ar-gramatu-autori-sanitu-reinsoni-articleitem-40032/"
+        },
+        {
+          "url": "https://ziemellatvija.lv/kultura-un-izklaide/aicinam-uz-tiksanos-ar-sanitu-reinsoni-valkas-biblioteka/"
+        }
+      ]
+    },
+    {
+      "id": "SR-004",
+      "date": "26.05.2017",
+      "place": "Mazsalacas pilsētas pirmsskolas izglītības iestāde",
+      "kind": "Pirmsskola",
+      "title": "Leļļu nedienas lauku sētā",
+      "sources": [
+        {
+          "url": "https://dom.lndb.lv/data/obj/file/22660625.pdf"
+        }
+      ]
+    },
+    {
+      "id": "SR-005",
+      "date": "26.05.2017",
+      "place": "Sēļu muiža, Novadu 16. Grāmatu svētki",
+      "kind": "Grāmatu svētki",
+      "title": "Saruna par garamantas.lv un bērnu grāmatas pasākums",
+      "sources": [
+        {
+          "url": "https://dom.lndb.lv/data/obj/file/22660625.pdf"
+        }
+      ]
+    },
+    {
+      "id": "SR-006",
+      "date": "10.11.2017",
+      "place": "Tārgales pamatskola",
+      "kind": "Skola",
+      "title": "Latvijas vēstures stunda par “Meža meitām”",
+      "sources": [
+        {
+          "url": "https://biblioteka.ventspils.lv/novada-bibliotekas/foto/"
+        }
+      ]
+    },
+    {
+      "id": "SR-007",
+      "date": "31.01.2018",
+      "place": "Cēsu Centrālā bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Autorvakars par grāmatu “Meža meitas”",
+      "sources": [
+        {
+          "url": "https://lfk.lv/Autorvakars-ar-Sanitu-Reinsoni"
+        },
+        {
+          "url": "https://dom.lndb.lv/data/obj/file/26065452.pdf"
+        }
+      ]
+    },
+    {
+      "id": "SR-008",
+      "date": "04.04.2018",
+      "place": "Mālpils novada bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās par grāmatu “Meža meitas”",
+      "sources": [
+        {
+          "url": "https://dom.lndb.lv/data/obj/file/27424168.pdf#page=35"
+        },
+        {
+          "url": "https://dom.lndb.lv/data/obj/file/22661043.pdf"
+        }
+      ]
+    },
+    {
+      "id": "SR-009",
+      "date": "2018; diena jāprecizē",
+      "place": "Aizkalne; bibliotēkas pasākums",
+      "kind": "Bibliotēka",
+      "title": "Saruna par “Meža meitām” un atmiņu dokumentēšanu",
+      "sources": [
+        {
+          "url": "https://dom.lndb.lv/data/obj/file/26090023.pdf"
+        }
+      ]
+    },
+    {
+      "id": "SR-010",
+      "date": "30.10.2018",
+      "place": "Alojas Ausekļa vidusskola",
+      "kind": "Skola",
+      "title": "Tikšanās ar jauniešiem par folkloru, apmaldīšanos un pētniecību",
+      "sources": [
+        {
+          "url": "https://www.limbazubiblioteka.lv/lv/jaunumi/folkloras_petniece_rakstniece_sanita_reinsone_tikas_ar_jauniesiem_aloja/"
+        }
+      ]
+    },
+    {
+      "id": "SR-011",
+      "date": "11.01.2019",
+      "place": "LKA Teātra māja “Zirgu pasts”, Rīga",
+      "kind": "Skolēnu seminārs",
+      "title": "Dzīves pierakstīšanas tradīcijas jeb kāpēc arī Tava dienasgrāmata ir kultūras mantojums",
+      "sources": [
+        {
+          "url": "https://lka.edu.lv/lv/aktuali/jaunumi/11-janvari-norisinasies-kulturas-kanona-konkursa-2-karta-izglitojosi-radosais-seminars/"
+        }
+      ]
+    },
+    {
+      "id": "SR-012",
+      "date": "27.02.2019",
+      "place": "Latvijas Nacionālās bibliotēkas Draugu telpa",
+      "kind": "Bibliotēka / diskusija",
+      "title": "Neredzamais karš jeb maz zināmais par pretošanās kustību Latvijā",
+      "sources": [
+        {
+          "url": "https://www.lsm.lv/raksts/kultura/literatura/nacionalaja-biblioteka-saksies-literaturai-veltits-sarunu-cikls.a310834/"
+        }
+      ]
+    },
+    {
+      "id": "SR-013",
+      "date": "10.05.2019",
+      "place": "Gulbenes novada bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Sarunu cikls “Abās pusēs”",
+      "sources": [
+        {
+          "url": "https://www.lfk.lv/Sanita-Reinsone-viesosies-Gulbenes-novada-biblioteka"
+        },
+        {
+          "url": "https://dom.lndb.lv/data/obj/file/29043579.pdf"
+        },
+        {
+          "url": "https://www.gulbenesbiblioteka.lv/lv/berniem-un-jauniesiem/bernu-jauniesu-vecaku-zurija/5?category_id=7"
+        }
+      ]
+    },
+    {
+      "id": "SR-014",
+      "date": "30.05.2019",
+      "place": "Ziemeļvalstu Ministru padomes birojs Latvijā, Rīga",
+      "kind": "Publisks seminārs",
+      "title": "Diskusija par digitālo līdzdalību",
+      "sources": [
+        {
+          "url": "https://www.lfk.lv/Sanita-Reinsone-vadis-seminaru-par-digitalo-lidzdalibu"
+        }
+      ]
+    },
+    {
+      "id": "SR-015",
+      "date": "17.12.2020",
+      "place": "Krāslavas novada centrālā bibliotēka; tiešsaistē",
+      "kind": "Bibliotēka / tiešsaistē",
+      "title": "Dzīves pierakstīšanas tradīcijas un autobiogrāfiskie materiāli",
+      "sources": [
+        {
+          "url": "https://kraslavasbiblioteka.blogspot.com/2020/12/tiessaistes-tiksanas-ar-sanitu-reinsoni.html"
+        }
+      ]
+    },
+    {
+      "id": "SR-016",
+      "date": "16.02.2023",
+      "place": "Juglas bibliotēka, Rīga",
+      "kind": "Bibliotēka",
+      "title": "Dzīves pierakstīšana un Autobiogrāfiju krājums",
+      "sources": [
+        {
+          "url": "https://www.sanitareinsone.lv/lv/publicit%C4%81te"
+        }
+      ]
+    },
+    {
+      "id": "SR-017",
+      "date": "15.06.2023",
+      "place": "Ventspils Augstskola",
+      "kind": "Praktisks seminārs",
+      "title": "Praktiskais garamantas.lv seminārs",
+      "sources": [
+        {
+          "url": "https://www.sanitareinsone.lv/lv/publicit%C4%81te"
+        }
+      ]
+    },
+    {
+      "id": "SR-018",
+      "date": "18.09.2024",
+      "place": "Ramatas Kultūrtelpa, Valmieras novads",
+      "kind": "Bibliotēkas sadarbības pasākums",
+      "title": "Ādama lasījumi jeb dzīves pierakstītāji dienasgrāmatās un atmiņās",
+      "sources": [
+        {
+          "url": "https://biblioteka.valmiera.lv/adama-lasijumi-jeb-dzives-pierakstitaji-dienasgramatas-un-atminas-2/"
+        }
+      ]
+    },
+    {
+      "id": "SR-019",
+      "date": "26.10.2024",
+      "place": "Mēru muiža / Smiltenes novada muzejs",
+      "kind": "Muzejs / publiska saruna",
+      "title": "Leģendu nakts: sarunas par folkloras mantojumu",
+      "sources": [
+        {
+          "url": "https://lvportals.lv/dienaskartiba/368677-legendu-nakts-latvijas-pilis-un-muizas-2024"
+        }
+      ]
+    },
+    {
+      "id": "SR-020",
+      "date": "2024. gada decembris; kalendārā 12.12.2024",
+      "place": "Jūrmalas Centrālā bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās bibliotēkā",
+      "sources": [
+        {
+          "url": "https://www.sanitareinsone.lv/lv/b%C4%93rnu-literat%C5%ABra"
+        }
+      ]
+    },
+    {
+      "id": "SR-021",
+      "date": "24.07.2025",
+      "place": "Rīga; Jāņa Baltvilka balvas lasījumi",
+      "kind": "Literāri lasījumi",
+      "title": "Starptautiskās Jāņa Baltvilka balvas lasījumi “Ar ko sākas grāmata?”",
+      "sources": [
+        {
+          "url": "https://digitalabiblioteka.lv/?id=LNB-OAI.DOM.DOM%3A1634410&of=30-5535&order=desc&tab=3"
+        }
+      ]
+    },
+    {
+      "id": "SR-022",
+      "date": "27.09.2025",
+      "place": "Kultūras centrs “Siguldas DEVONS”, vestibils",
+      "kind": "Literatūras festivāls",
+      "title": "Nepublicēto darbu lasījumi Siguldas Bērnu un jauniešu literatūras festivālā",
+      "sources": [
+        {
+          "url": "https://siguldasfestivals.lv/autoru-programma"
+        }
+      ]
+    },
+    {
+      "id": "SR-023",
+      "date": "02.10.2025",
+      "place": "Talsu Galvenā bibliotēka",
+      "kind": "Bibliotēka / skolēni",
+      "title": "Stāsti, kas savieno paaudzes. Dienasgrāmata",
+      "sources": [
+        {
+          "url": "https://www.talsubiblioteka.lv/projekti/"
+        },
+        {
+          "url": "https://www.gramatai500.lv/post/talsu-galven%C4%81-bibliot%C4%93ka-aicina-uz-sarunu-st%C4%81sti-kas-savieno-paaudzes-dienasgr%C4%81matas"
+        },
+        {
+          "url": "https://retalsi.lv/zinas-talsu-novads/dienasgramata-vs-x-kas-paliks-no-2025-gada/"
+        }
+      ]
+    },
+    {
+      "id": "SR-024",
+      "date": "09.10.2025",
+      "place": "Gulbenes novada bibliotēkas Bērnu apkalpošanas nodaļa",
+      "kind": "Bibliotēka / skolēni",
+      "title": "Tikšanās ciklā “#AutorsTuvumā”",
+      "sources": [
+        {
+          "url": "https://gnvsk.lv/2025/10/tiksanas-ar-rakstnieci-s-reinsoni/"
+        },
+        {
+          "url": "https://www.gulbenesbiblioteka.lv/lv/jaunumi-2/gulbenes-novada-biblioteka-turpina-tiksanos-diskusiju-ciklu-autorstuvuma"
+        }
+      ]
+    },
+    {
+      "id": "SR-025",
+      "date": "10.10.2025",
+      "place": "Smiltenes bibliotēka",
+      "kind": "Bibliotēka / lekcija",
+      "title": "Smiltenes apkārtnes teikas un to pierakstītāji",
+      "sources": [
+        {
+          "url": "https://www.smiltenesnovads.lv/lv/jaunums/nedelas-nogale-smiltenes-novada-tiksanas-meistarklases-teatris-un-lielais-rudens-festivals"
+        },
+        {
+          "url": "https://ziemellatvija.lv/kultura-un-izklaide/smiltenes-biblioteka-aicina-uz-lekciju-par-smiltenes-apkartne-pierakstitajam-teikam/"
+        }
+      ]
+    },
+    {
+      "id": "SR-026",
+      "date": "14.11.2025",
+      "place": "PII “Aģupīte”, Skulte",
+      "kind": "Pirmsskola",
+      "title": "Tikšanās par grāmatu “Draugi un kaimiņi”",
+      "sources": [
+        {
+          "url": "https://limbazubiblioteka.lv/lv/skultes_biblioteka_1/kopa_ar_pii_agupite_berniem_gramata_draugi_un_kaimini_ielukojas_tas_autore_sanita_reinsone/"
+        }
+      ]
+    },
+    {
+      "id": "SR-027",
+      "date": "02.12.2025",
+      "place": "Rīgas Āgenskalna Valsts ģimnāzija",
+      "kind": "Skola",
+      "title": "Tikšanās ar grāmatas “Draugi un kaimiņi” autori",
+      "sources": [
+        {
+          "url": "https://avg.lv/wp-content/uploads/2026/01/Lavize_janvaris_2026.pdf#page=11"
+        }
+      ]
+    },
+    {
+      "id": "SR-028",
+      "date": "30.01.2026",
+      "place": "Alūksnes novada bibliotēka, Bērnu apkalpošanas nodaļa",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās projektā “LALIGABAs autori Alūksnē”",
+      "sources": [
+        {
+          "url": "https://aluksne.lv/Aluksnes%20Novada%20Vestis/anv_2026/janvaris.pdf#page=8"
+        }
+      ]
+    },
+    {
+      "id": "SR-029",
+      "date": "02.04.2026",
+      "place": "Alojas Ausekļa pamatskola",
+      "kind": "Skola",
+      "title": "Dienasgrāmatas, atmiņas un citi dzīves pieraksti kā kultūras mantojums",
+      "sources": [
+        {
+          "url": "https://www.limbazubiblioteka.lv/lv/alojas_biblioteka/tiksanas_ar_rakstnieci_latviesu_folkloras_petnieci_sanitu_reinson/"
+        }
+      ]
+    },
+    {
+      "id": "SR-030",
+      "date": "18.04.2026",
+      "place": "Mazsalacas pilsētas bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Pasākums par “Draugiem un kaimiņiem”; saruna ar autori",
+      "sources": [
+        {
+          "url": "https://visit.valmiera.lv/pasakumi/pasakums-gimenem-ar-berniem-par-gramatu-draugiem-un-kaiminiem/"
+        }
+      ]
+    },
+    {
+      "id": "SR-031",
+      "date": "22.05.2026",
+      "place": "Gāliņciema bibliotēka, Ventspils",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās projektā “Kā es sarakstīju grāmatu”",
+      "sources": [
+        {
+          "url": "https://biblioteka.ventspils.lv/author/zane/"
+        }
+      ]
+    },
+    {
+      "id": "SR-032",
+      "date": "13.10.2020",
+      "place": "Zviedrijas Valodas un folkloras institūts; tiešsaistē",
+      "kind": "Profesionāls seminārs",
+      "title": "Līdzdalība digitālā vidē: Latviešu folkloras krātuves digitālā arhīva pieredze",
+      "sources": [
+        {
+          "url": "https://lfk.lv/Sanita-Reinsone-piedalisies-Zviedrijas-Valodas-un-folkloras-instituta-seminara"
+        }
+      ]
+    },
+    {
+      "id": "SR-033",
+      "date": "29.06.2023",
+      "place": "Pasaules latviešu zinātnieku kongress",
+      "kind": "Paneļdiskusija",
+      "title": "Digitalizācija un cilvēks",
+      "sources": [
+        {
+          "url": "https://lulfmi.lv/jaunumi/sanita-reinsone-piedalas-paneldiskusija-digitalizacija-un-cilveks"
+        }
+      ]
+    },
+    {
+      "id": "SR-034",
+      "date": "21.11.2024; precizēts pēc kalendāra",
+      "place": "LNRMM kultūrtelpa “Tintnīca”, Pulka iela 8, Rīga",
+      "kind": "Muzejs / profesionāla diskusija",
+      "title": "Muzejs digitālajā laikmetā; konference “Akti. Fakti. Artefakti”",
+      "sources": [
+        {
+          "url": "https://lulfmi.lv/jaunumi/gatis-ozolins-un-sanita-reinsone-konference-akti-fakti-artefakti"
+        },
+        {
+          "url": "https://rmm.lv/akti-fakti-artefakti/"
+        }
+      ]
+    },
+    {
+      "id": "CAL-001",
+      "date": "04.11.2016",
+      "place": "Gulbenes novada bibliotēka",
+      "kind": "Bibliotēka / seminārs",
+      "title": "Garamantas.lv seminārs",
+      "sources": []
+    },
+    {
+      "id": "CAL-002",
+      "date": "25.02.2017",
+      "place": "Starptautiskais izstāžu centrs Ķīpsalā, Rīga",
+      "kind": "Grāmatas atklāšana",
+      "title": "Igauņu grāmatas atklāšana",
+      "sources": []
+    },
+    {
+      "id": "CAL-003",
+      "date": "29.04.2017",
+      "place": "Alūksnes bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās par “Meža meitām”",
+      "sources": []
+    },
+    {
+      "id": "CAL-004",
+      "date": "18.07.2017",
+      "place": "“Ezernieki”, Lubānas novads (pēc kalendāra apraksta)",
+      "kind": "Bibliotekāru seminārs",
+      "title": "Vidzemes folkloras kolekcijas garamantas.lv",
+      "sources": []
+    },
+    {
+      "id": "CAL-005",
+      "date": "25.10.2017",
+      "place": "Ventspils bibliotēka; filiāle jāprecizē",
+      "kind": "Bibliotēka / seminārs",
+      "title": "Folkloras meklēšana digitālajos resursos",
+      "sources": []
+    },
+    {
+      "id": "CAL-006",
+      "date": "05.12.2017",
+      "place": "Latvijas Universitātes bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Stāstu kolektīvā iedaba",
+      "sources": []
+    },
+    {
+      "id": "CAL-007",
+      "date": "21.04.2018",
+      "place": "Kursīšu bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās Kursīšu bibliotēkā",
+      "sources": []
+    },
+    {
+      "id": "CAL-008",
+      "date": "27.04.2018",
+      "place": "Pļaviņu novada bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās Pļaviņu novada bibliotēkā",
+      "sources": []
+    },
+    {
+      "id": "CAL-009",
+      "date": "21.01.2019",
+      "place": "Siguldas ģimnāzija; precīzs nosaukums jāprecizē",
+      "kind": "Skola",
+      "title": "Divas lekcijas Siguldas ģimnāzijā",
+      "sources": []
+    },
+    {
+      "id": "CAL-010",
+      "date": "26.04.2019",
+      "place": "Staiceles bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Viesošanās Staiceles bibliotēkā",
+      "sources": []
+    },
+    {
+      "id": "CAL-011",
+      "date": "23.02.2021",
+      "place": "Medicīnas vēstures muzejs",
+      "kind": "Muzejs / lekcija",
+      "title": "Lekcija Medicīnas vēstures muzejā",
+      "sources": []
+    },
+    {
+      "id": "CAL-012",
+      "date": "27.08.2021",
+      "place": "Regīnas Ezeras festivāls; vieta jāprecizē",
+      "kind": "Koncertlasījums",
+      "title": "Koncertlasījums Regīnas Ezeras festivālā",
+      "sources": []
+    },
+    {
+      "id": "CAL-013",
+      "date": "02.06.2023",
+      "place": "Majori; personību muzeju konference",
+      "kind": "Muzeju konference",
+      "title": "Dzimtu dokumentārais mantojums un digitālā līdzdalība",
+      "sources": []
+    },
+    {
+      "id": "CAL-014",
+      "date": "09.05.2024",
+      "place": "Valmieras bibliotēka; tiešsaistē",
+      "kind": "Bibliotēka / tiešsaistē",
+      "title": "Valmieras bibliotēkas tiešsaistes pasākums",
+      "sources": []
+    },
+    {
+      "id": "CAL-015",
+      "date": "15.11.2024",
+      "place": "Jūrmalas bibliotēka; filiāle jāprecizē",
+      "kind": "Bibliotēka",
+      "title": "Pasākums Jūrmalas bibliotēkā",
+      "sources": []
+    },
+    {
+      "id": "CAL-016",
+      "date": "29.11.2024",
+      "place": "Jūrmalas bibliotēka; filiāle jāprecizē",
+      "kind": "Bibliotēka",
+      "title": "Pasākums Jūrmalas bibliotēkā",
+      "sources": []
+    },
+    {
+      "id": "CAL-017",
+      "date": "17.04.2025",
+      "place": "LaLiGaBa nominantu prozas lasījumi; vieta jāprecizē",
+      "kind": "Literāri lasījumi",
+      "title": "LaLiGaBa nominantu prozas lasījumi",
+      "sources": []
+    },
+    {
+      "id": "CAL-018",
+      "date": "08.12.2025",
+      "place": "Carnikavas bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās Carnikavas bibliotēkā",
+      "sources": []
+    },
+    {
+      "id": "CAL-019",
+      "date": "22.01.2026",
+      "place": "Staiceles bibliotēka",
+      "kind": "Bibliotēka",
+      "title": "Tikšanās ar skolēniem",
+      "sources": []
+    },
+    {
+      "id": "CAL-020",
+      "date": "26.01.2017",
+      "place": "LFK; Iecavas skolēnu apmeklējums",
+      "kind": "Skolēnu apmeklējums",
+      "title": "Iecavas skolēni LFK",
+      "sources": []
+    },
+    {
+      "id": "CAL-021",
+      "date": "25.02.2017",
+      "place": "Ķīpsalas izstāžu centrs, Rīga",
+      "kind": "Grāmatu pasākums",
+      "title": "LU LFMI grāmatu pasākums Ķīpsalā",
+      "sources": []
+    },
+    {
+      "id": "CAL-022",
+      "date": "24.07.2017",
+      "place": "Baltvilka lasījumi; vieta jāprecizē",
+      "kind": "Literāri lasījumi",
+      "title": "Baltvilka lasījumi 2017",
+      "sources": []
+    },
+    {
+      "id": "CAL-023",
+      "date": "03.07.2017",
+      "place": "Imanta Ziedoņa muzejs, Murjāņi",
+      "kind": "Muzeju simpozijs",
+      "title": "Reģionālo muzeju simpozijs",
+      "sources": []
+    },
+    {
+      "id": "CAL-024",
+      "date": "17.01.2018",
+      "place": "Kaņepes Kultūras centrs, Rīga",
+      "kind": "Bērnu literatūra",
+      "title": "Bērnu literatūras lasījumi",
+      "sources": []
+    },
+    {
+      "id": "CAL-025",
+      "date": "26.11.2020",
+      "place": "Tiešsaistē; rīkotājs jāprecizē",
+      "kind": "Saruna",
+      "title": "Saruna par dienasgrāmatām",
+      "sources": []
+    },
+    {
+      "id": "CAL-026",
+      "date": "25.08.2021",
+      "place": "Vieta jāprecizē",
+      "kind": "Literāri lasījumi",
+      "title": "Prozas lasījumi",
+      "sources": []
+    },
+    {
+      "id": "CAL-027",
+      "date": "24.07.2022",
+      "place": "Baltvilka lasījumi; vieta jāprecizē",
+      "kind": "Literāri lasījumi",
+      "title": "Baltvilka bērnu literatūras lasījumi 2022",
+      "sources": []
+    },
+    {
+      "id": "CAL-028",
+      "date": "23.11.2023",
+      "place": "LU bibliotēka",
+      "kind": "Sabiedriskā zinātne",
+      "title": "Sabiedriskās zinātnes pasākums",
+      "sources": []
+    },
+    {
+      "id": "CAL-029",
+      "date": "06.01.2025",
+      "place": "Latvijas Okupācijas muzejs",
+      "kind": "Konkursa pasākums",
+      "title": "Atmodas konkursa pasākums",
+      "sources": []
+    },
+    {
+      "id": "CAL-030",
+      "date": "28.02.2025",
+      "place": "LaPa muzejs, Berga bazārs",
+      "kind": "Stāstu vakars",
+      "title": "Ukrainas stāstu vakars",
+      "sources": []
+    },
+    {
+      "id": "CAL-032",
+      "date": "26.03.2026",
+      "place": "Carnikavas skola",
+      "kind": "Konkurss",
+      "title": "Dalība skolas konkursa pasākumā",
+      "sources": []
+    },
+    {
+      "id": "CAL-033",
+      "date": "30.05.2019",
+      "place": "Rīkotājs jāprecizē",
+      "kind": "Lekcija",
+      "title": "Lekcija sociologu asociācijā",
+      "sources": []
+    },
+    {
+      "id": "CAL-034",
+      "date": "10.11.2016",
+      "place": "LU Humanitāro zinātņu fakultāte",
+      "kind": "Profesionāla lekcija",
+      "title": "Lekcija LU",
+      "sources": []
+    },
+    {
+      "id": "CAL-035",
+      "date": "03.04.2017",
+      "place": "LU Humanitāro zinātņu fakultāte",
+      "kind": "Profesionāla lekcija",
+      "title": "Lekcija HZF studentiem",
+      "sources": []
+    },
+    {
+      "id": "CAL-036",
+      "date": "22.03.2024",
+      "place": "LMA (saīsinājums kalendārā)",
+      "kind": "Profesionāla lekcija",
+      "title": "Lekcija LMA",
+      "sources": []
+    },
+    {
+      "id": "CAL-037",
+      "date": "10.12.2024",
+      "place": "Norvēģu seminārs; precīzs rīkotājs jāprecizē",
+      "kind": "Profesionāla lekcija",
+      "title": "Uzstāšanās norvēģu seminārā",
+      "sources": []
+    },
+    {
+      "id": "CAL-038",
+      "date": "16.12.2024",
+      "place": "Tiešsaistē; vēsturnieku auditorija",
+      "kind": "Profesionāla lekcija",
+      "title": "Tiešsaistes lekcija vēsturniekiem",
+      "sources": []
+    },
+    {
+      "id": "USR-001",
+      "date": "29.09.2026",
+      "place": "European School of Brussels I (Uccle), Avenue du Vert Chasseur 46, 1180 Brussels",
+      "kind": "Skola / divas mācību stundas",
+      "title": "Tikšanās ar skolēniem Briselē: Uccle",
+      "sources": []
+    },
+    {
+      "id": "USR-002",
+      "date": "29.09.2026",
+      "place": "European School of Brussels I (Berkendael), Rue de Berkendael 70, 1190 Forest",
+      "kind": "Skola / sākumskola",
+      "title": "Tikšanās ar sākumskolas skolēniem Briselē: Berkendael",
+      "sources": []
+    },
+    {
+      "id": "USR-003",
+      "date": "20.03.2026",
+      "place": "Berģu Mūzikas un mākslas pamatskola, Upesciems",
+      "kind": "Skola / tikšanās ar autori",
+      "title": "Tikšanās Berģu Mūzikas un mākslas pamatskolā",
+      "sources": [
+        {
+          "url": "https://www.bmmp.lv/wp-content/uploads/2025/06/Arpusklases-literaturas-saraksts_2025_2026mg_1.pdf#page=4"
+        }
+      ]
+    }
+  ]
+}

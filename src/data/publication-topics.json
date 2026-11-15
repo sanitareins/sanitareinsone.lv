@@ -1,0 +1,337 @@
+{
+  "covidchapter": {
+    "themes": [
+      "memory",
+      "participation"
+    ],
+    "group": "Publikācijas",
+    "type": "Nodaļa grāmatā"
+  },
+  "beyond": {
+    "themes": [
+      "memory",
+      "participation",
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "uncertainty": {
+    "themes": [
+      "memory",
+      "participation"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "humma": {
+    "themes": [
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "iesaistiespaper": {
+    "themes": [
+      "participation",
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "boosting": {
+    "themes": [
+      "language",
+      "participation",
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "wordgame-strategies": {
+    "themes": [
+      "language"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "garamantaspaper": {
+    "themes": [
+      "folklore",
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "publication-25": {
+    "themes": [
+      "memory",
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "vocabulary": {
+    "themes": [
+      "language"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "date-detection": {
+    "themes": [
+      "memory",
+      "language",
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "transcription": {
+    "themes": [
+      "folklore",
+      "participation",
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "publication-33": {
+    "themes": [
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "publication-35": {
+    "themes": [
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "publication-37": {
+    "themes": [
+      "participation",
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Nodaļa grāmatā"
+  },
+  "plants": {
+    "themes": [
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "publication-41": {
+    "themes": [
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "publication-43": {
+    "themes": [
+      "participation",
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Nodaļa grāmatā"
+  },
+  "publication-45": {
+    "themes": [
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Nodaļa grāmatā"
+  },
+  "publication-47": {
+    "themes": [
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "publication-49": {
+    "themes": [
+      "memory",
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "publication-51": {
+    "themes": [
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Nodaļa grāmatā"
+  },
+  "publication-53": {
+    "themes": [
+      "memory",
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Nodaļa grāmatā"
+  },
+  "publication-55": {
+    "themes": [
+      "memory",
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Zinātnisks raksts"
+  },
+  "publication-58": {
+    "themes": [
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Priekšvārds"
+  },
+  "publication-60": {
+    "themes": [
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Pozīcijas dokuments"
+  },
+  "publication-62": {
+    "themes": [
+      "participation"
+    ],
+    "group": "Publikācijas",
+    "type": "Vēstule redakcijai"
+  },
+  "publication-64": {
+    "themes": [
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Priekšvārds"
+  },
+  "publication-66": {
+    "themes": [
+      "participation"
+    ],
+    "group": "Publikācijas",
+    "type": "Vēstule redakcijai"
+  },
+  "publication-68": {
+    "themes": [
+      "participation"
+    ],
+    "group": "Ziņojumi",
+    "type": "Ziņojums"
+  },
+  "publication-70": {
+    "themes": [
+      "participation"
+    ],
+    "group": "Publikācijas",
+    "type": "Vēstule redakcijai"
+  },
+  "publication-72": {
+    "themes": [
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Intervija"
+  },
+  "publication-74": {
+    "themes": [
+      "memory"
+    ],
+    "group": "Publikācijas",
+    "type": "Intervija"
+  },
+  "publication-76": {
+    "themes": [
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Priekšvārds"
+  },
+  "publication-78": {
+    "themes": [
+      "infrastructure"
+    ],
+    "group": "Publikācijas",
+    "type": "Priekšvārds"
+  },
+  "publication-80": {
+    "themes": [
+      "infrastructure",
+      "participation"
+    ],
+    "group": "Publikācijas",
+    "type": "Vadlīnijas"
+  },
+  "publication-83": {
+    "themes": [
+      "memory"
+    ],
+    "group": "Dokumentālā literatūra",
+    "type": "Dokumentālā grāmata"
+  },
+  "publication-85": {
+    "themes": [
+      "memory"
+    ],
+    "group": "Dokumentālā literatūra",
+    "type": "Dokumentālā grāmata"
+  },
+  "publication-88": {
+    "themes": [
+      "memory"
+    ],
+    "group": "Raksti kultūras medijos",
+    "type": "Recenzija"
+  },
+  "publication-90": {
+    "themes": [
+      "folklore"
+    ],
+    "group": "Raksti kultūras medijos",
+    "type": "Eseja"
+  },
+  "publication-92": {
+    "themes": [
+      "folklore",
+      "memory"
+    ],
+    "group": "Raksti kultūras medijos",
+    "type": "Eseja"
+  },
+  "publication-94": {
+    "themes": [
+      "folklore"
+    ],
+    "group": "Raksti kultūras medijos",
+    "type": "Eseja"
+  },
+  "publication-96": {
+    "themes": [
+      "memory"
+    ],
+    "group": "Raksti kultūras medijos",
+    "type": "Eseja"
+  },
+  "publication-98": {
+    "themes": [
+      "memory"
+    ],
+    "group": "Raksti kultūras medijos",
+    "type": "Eseja"
+  },
+  "apmaldisanas-poetika": {
+    "themes": [
+      "folklore"
+    ],
+    "group": "Publikācijas",
+    "type": "Monogrāfija"
+  }
+}

@@ -1,0 +1,680 @@
+{
+  "checked_on": "2026-11-15",
+  "records": [
+    {
+      "id": "lr-225311",
+      "date": "2026-11-10",
+      "title": "Mīklu režģis. Pētnieki aicina atgriezties pie senas latviešu tradīcijas – mīklu minēšanas",
+      "url": "https://replay.lsm.lv/lv/klausies/ieraksts/lr/225311/miklu-rezgis-petnieki-aicina-atgriezties-pie-senas-latviesu-tradicijas-miklu-minesanas",
+      "topics": [
+        "folklore",
+        "infrastructure",
+        "participation"
+      ],
+      "writing": false,
+      "author": "",
+      "outlet": "Latvijas Radio 1 · Kultūras rondo",
+      "kind": "Radio saruna",
+      "source": "https://replay.lsm.lv/lv/klausies/ieraksts/lr/225311/miklu-rezgis-petnieki-aicina-atgriezties-pie-senas-latviesu-tradicijas-miklu-minesanas"
+    },
+    {
+      "id": "lr-221163",
+      "date": "2026-06-08",
+      "title": "Izveidots atvērtais teksta atpazīšanas modelis darbam ar 19.gs. tekstiem latviešu valodā",
+      "url": "https://lr1.lsm.lv/lv/raksts/starpbridis/izveidots-atvertais-teksta-atpazisanas-modelis-darbam-ar-19.gs.-.a221163",
+      "topics": [
+        "language",
+        "infrastructure",
+        "folklore"
+      ],
+      "writing": false,
+      "author": "Agnese Linka, Toms Grēviņš",
+      "outlet": "Latvijas Radio 1 · Starpbrīdis",
+      "kind": "Radio saruna",
+      "source": "https://lr1.lsm.lv/lv/raksts/starpbridis/izveidots-atvertais-teksta-atpazisanas-modelis-darbam-ar-19.gs.-.a221163"
+    },
+    {
+      "id": "lsm-608701",
+      "date": "2025-08-03",
+      "title": "Atmiņu glabātāja ar rakstnieces talantu. Intervija ar pētnieci un Baltvilka balvas laureāti Sanitu Reinsoni",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/03.08.2025-atminu-glabataja-ar-rakstnieces-talantu-intervija-ar-petnieci-un-baltvilka-balvas-laureati-sanitu-reinsoni.a608701/",
+      "author": "Aija Bremšmite",
+      "topics": [
+        "memory",
+        "folklore",
+        "infrastructure"
+      ],
+      "writing": true,
+      "kind": "Intervija",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lsm-608031",
+      "date": "2025-07-24",
+      "title": "Baltvilka balvu saņem rakstnieks Krišjānis Zeļģis un ilustratori Dace Krēsliņa un Zahars Ze; lasītāju simpātija – Sanita Reinsone",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/24.07.2025-baltvilka-balvu-sanem-rakstnieks-krisjanis-zelgis-un-ilustratori-dace-kreslina-un-zahars-ze-lasitaju-simpatija-sanita-reinsone.a608031/",
+      "topics": [],
+      "writing": true,
+      "author": "LSM.lv Kultūras redakcija",
+      "outlet": "LSM.lv",
+      "kind": "Ziņa par balvu",
+      "source": "https://www.lsm.lv/raksts/kultura/literatura/24.07.2025-baltvilka-balvu-sanem-rakstnieks-krisjanis-zelgis-un-ilustratori-dace-kreslina-un-zahars-ze-lasitaju-simpatija-sanita-reinsone.a608031/"
+    },
+    {
+      "id": "lsm-606080",
+      "date": "2025-07-08",
+      "title": "Paziņoti Baltvilka balvas nominanti; starptautisko balvu saņem vācu rakstniece Dita Cipfele un tulkotāja Signe Viška",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/08.07.2025-pazinoti-baltvilka-balvas-nominanti-starptautisko-balvu-sanem-vacu-rakstniece-dita-cipfele-un-tulkotaja-signe-viska.a606080/",
+      "topics": [],
+      "writing": true,
+      "author": "LSM.lv Kultūras redakcija",
+      "outlet": "LSM.lv",
+      "kind": "Ziņa par nomināciju",
+      "source": "https://www.lsm.lv/raksts/kultura/literatura/08.07.2025-pazinoti-baltvilka-balvas-nominanti-starptautisko-balvu-sanem-vacu-rakstniece-dita-cipfele-un-tulkotaja-signe-viska.a606080/"
+    },
+    {
+      "id": "lsm-596769",
+      "date": "2025-04-26",
+      "title": "Literatūras gada balvas saņem Bloma, Kuzmins, Lapiņa, Reinsone, Sudmale un Bula",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/26.04.2025-literaturas-gada-balvas-sanem-bloma-kuzmins-lapina-reinsone-sudmale-un-bula.a596769/",
+      "topics": [],
+      "writing": true,
+      "author": "LSM.lv Kultūras redakcija",
+      "outlet": "LSM.lv",
+      "kind": "Ziņa par balvu",
+      "source": "https://www.lsm.lv/raksts/kultura/literatura/26.04.2025-literaturas-gada-balvas-sanem-bloma-kuzmins-lapina-reinsone-sudmale-un-bula.a596769/"
+    },
+    {
+      "id": "lsm-594632",
+      "date": "2025-04-09",
+      "title": "Nosargāt bērnību. Literatūras gada balvai nominētās bērnu grāmatas",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/09.04.2025-nosargat-bernibu-literaturas-gada-balvai-nominetas-bernu-gramatas.a594632/",
+      "topics": [],
+      "writing": true,
+      "author": "Aija Bremšmite",
+      "outlet": "LSM.lv",
+      "kind": "Grāmatu apskats",
+      "source": "https://www.lsm.lv/raksts/kultura/literatura/09.04.2025-nosargat-bernibu-literaturas-gada-balvai-nominetas-bernu-gramatas.a594632/"
+    },
+    {
+      "id": "media-202205",
+      "date": "2025-01-27",
+      "title": "Aicina dalīties ar Atmodas laiku pieredzi un atmiņām, kā arī iesaistīties “Balsu talkā”",
+      "url": "https://lr1.lsm.lv/lv/raksts/starpbridis/aicina-dalities-ar-atmodas-laiku-pieredzi-un-atminam-ka-ari-iesa.a202205/",
+      "topics": [
+        "memory",
+        "participation",
+        "language"
+      ],
+      "writing": false,
+      "author": "Toms Grēviņš, Mariona Baltkalne",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-338393",
+      "date": "2024-10-01",
+      "title": "Aicina palīdzēt pārrakstīt folkloras krātuves arhīvu",
+      "url": "https://replay.lsm.lv/lv/ieraksts/ltv/338393/aicina-palidzet-parrakstit-folkloras-kratuves-arhivu",
+      "topics": [
+        "folklore",
+        "participation",
+        "infrastructure"
+      ],
+      "writing": false,
+      "author": "",
+      "kind": "TV sižets",
+      "outlet": "Latvijas Televīzija",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "lsm-563669",
+      "date": "2024-08-04",
+      "title": "Bērnība kosmosā un vītola pavēnī. Recenzija par Sanitas Reinsones stāstu «Draugi un kaimiņi»",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/04.08.2024-berniba-kosmosa-un-vitola-paveni-recenzija-par-sanitas-reinsones-stastu-draugi-un-kaimini.a563669/",
+      "author": "Aija Bremšmite",
+      "topics": [],
+      "writing": true,
+      "kind": "Recenzija",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "media-326203",
+      "date": "2024-04-05",
+      "title": "Digitālais projekts “Balsu talka”",
+      "url": "https://replay.lsm.lv/lv/ieraksts/ltv/326203/digitalais-projekts-balsu-talka",
+      "topics": [
+        "language",
+        "participation"
+      ],
+      "writing": false,
+      "author": "",
+      "kind": "TV sižets",
+      "outlet": "Latvijas Televīzija",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-189984",
+      "date": "2024-03-28",
+      "title": "Ja tu dzīvo sabiedrībā, tu vari būt zinātnieks",
+      "url": "https://naba.lsm.lv/lv/raksts/zinatnes-varda/ja-tu-dzivo-sabiedriba-tu-vari-but-zinatnieks.a189984/",
+      "topics": [
+        "participation"
+      ],
+      "writing": false,
+      "author": "Ivars Austers",
+      "kind": "Radio saruna",
+      "outlet": "Radio NABA",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-188639",
+      "date": "2024-03-06",
+      "title": "Sabiedriskā zinātne Latvijā: vairumā pētījumu ir svarīga cilvēku iesaiste",
+      "url": "https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/sabiedriska-zinatne-latvija-vairuma-petijumu-ir-svariga-cilveku-.a188639/",
+      "topics": [
+        "participation"
+      ],
+      "writing": false,
+      "author": "Mariona Baltkalne, Paula Gulbinska",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-180868",
+      "date": "2023-09-04",
+      "title": "Ukrainas zinātnieki Latvijā",
+      "url": "https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/ukrainas-zinatnieki-latvija.a180868",
+      "topics": [
+        "participation"
+      ],
+      "writing": false,
+      "author": "Mariona Baltkalne",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-159852",
+      "date": "2022-05-04",
+      "title": "Pieredzes stāsti nākamajām paaudzēm: veidot dzimtas kokus, ekskursijas uz bērnības vietām",
+      "url": "https://lr1.lsm.lv/lv/raksts/gimenes-studija/pieredzes-stasti-nakamajam-paaudzem-veidot-dzimtas-kokus-ekskurs.a159852/",
+      "topics": [
+        "memory"
+      ],
+      "writing": false,
+      "author": "Ilze Zvaigzne, Mairita Znotiņa",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-159475",
+      "date": "2022-04-22",
+      "title": "Aicina centralizēt palīdzības piedāvājumus Ukrainas zinātniekiem",
+      "url": "https://lr1.lsm.lv/lv/raksts/pecpusdiena/aicina-centralizet-palidzibas-piedavajumus-ukrainas-zinatniekiem.a159475/",
+      "topics": [
+        "participation"
+      ],
+      "writing": false,
+      "author": "Agnese Linka, Ilze Puncule-Aginta",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "lsm-450023",
+      "date": "2022-03-30",
+      "title": "Stāsts par stāstiem. Saruna ar folkloras pētnieci Sanitu Reinsoni",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/stasts-par-stastiem-saruna-ar-folkloras-petnieci-sanitu-reinsoni.a450023/",
+      "author": "Ieva Siliņa",
+      "topics": [
+        "memory",
+        "folklore",
+        "infrastructure",
+        "participation"
+      ],
+      "writing": false,
+      "kind": "Intervija",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "media-157300",
+      "date": "2022-03-15",
+      "title": "Latviešu zinātnieki palīdz zinātniekiem no Ukrainas, meklējot iespējas strādāt svešumā",
+      "url": "https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/latviesu-zinatnieki-palidz-zinatniekiem-no-ukrainas-meklejot-ies.a157300/",
+      "topics": [
+        "participation"
+      ],
+      "writing": false,
+      "author": "Mariona Baltkalne, Sandra Kropa",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-151101",
+      "date": "2021-11-01",
+      "title": "Grāmata “100 kartes pirms Latvijas valsts” ilustrē dažādus Latvijā notikušus procesus",
+      "url": "https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/gramata-100-kartes-pirms-latvijas-valsts-ilustre-dazadus-latvija.a151101",
+      "topics": [
+        "infrastructure"
+      ],
+      "writing": false,
+      "author": "Paula Gulbinska, Sandra Kropa",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-208167",
+      "date": "2021-01-15",
+      "title": "Aicina rakstīt par savu pieredzi Vardarbības arhīvā",
+      "url": "https://ltv.lsm.lv/lv/raksts/15.01.2021-aicina-rakstit-par-savu-pieredzi-vardarbibas-arhiva.id208167/",
+      "topics": [
+        "memory",
+        "participation"
+      ],
+      "writing": false,
+      "author": "",
+      "kind": "TV sižets",
+      "outlet": "Latvijas Televīzija",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-138808",
+      "date": "2021-01-11",
+      "title": "Dzīvā folklora: Dienasgrāmatu fenomens pagātnē un mūsdienās",
+      "url": "https://lr1.lsm.lv/lv/raksts/kulturas-rondo/dziva-folklora-dienasgramatu-fenomens-pagatne-un-musdienas.a138808",
+      "topics": [
+        "memory",
+        "folklore"
+      ],
+      "writing": false,
+      "author": "Toms Treibergs",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "lsm-387272",
+      "date": "2020-12-31",
+      "title": "No pavasara poēmas līdz rudens skaudrumam: folkloras krātuve turpina krāt «pandēmijas dienasgrāmatas»",
+      "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/no-pavasara-poemas-lidz-rudens-skaudrumam-folkloras-kratuve-turpina-krat-pandemijas-dienasgramatas.a387272/",
+      "author": "Māra Rozenberga",
+      "topics": [
+        "memory",
+        "participation"
+      ],
+      "writing": false,
+      "kind": "Raksts",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lr-137085",
+      "date": "2020-11-24",
+      "title": "Jauna dziesma grupai “Rāva”, turpinās pandēmijas dienasgrāmatas rakstīšana",
+      "url": "https://replay.lsm.lv/lv/klausies/ieraksts/lr/137085/jauna-dziesma-grupai-rava-turpinas-pandemijas-dienasgramatas-rakstisana",
+      "author": "Anete Stuce",
+      "topics": [
+        "memory",
+        "participation"
+      ],
+      "writing": false,
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 3 · Etnovēstis",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/?src=lr"
+    },
+    {
+      "id": "lsm-357203",
+      "date": "2020-04-24",
+      "title": "Covid-19 pieredze kā nozīmīgs dokumentārais mantojums – aicina veidot laika liecības",
+      "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/covid-19-pieredze-ka-nozimigs-dokumentarais-mantojums--aicina-veidot-laika-liecibas.a357203/",
+      "author": "Baiba Kušķe",
+      "topics": [
+        "memory",
+        "participation"
+      ],
+      "writing": false,
+      "kind": "Raksts",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "media-128475",
+      "date": "2020-04-06",
+      "title": "Pagātnes balss mūsdienu noformējumā – Emīla Pudeļa simtgadīgā dienasgrāmata",
+      "url": "https://klasika.lsm.lv/lv/raksts/parmijas/socialajos-tiklos-tiek-publiceta-100-gadu-sena-dienasgramata.a128475/",
+      "topics": [
+        "memory"
+      ],
+      "writing": false,
+      "author": "Ilze Medne",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 3",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "lsm-353606",
+      "date": "2020-03-27",
+      "title": "Aicina ikvienu «Pandēmijas dienasgrāmatā» pierakstīt, kā norit šis laiks",
+      "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/aicina-ikvienu-pandemijas-dienasgramata-pierakstit-ka-norit-sis-laiks.a353606/",
+      "author": "Līga Gaigala",
+      "topics": [
+        "memory",
+        "participation"
+      ],
+      "writing": false,
+      "kind": "Ziņa",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lsm-353046",
+      "date": "2020-03-24",
+      "title": "«Pandēmijas dienasgrāmata» liecina – cilvēki arī šodien raksta dienasgrāmatas",
+      "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/pandemijas-dienasgramata-liecina--cilveki-ari-sodien-raksta-dienasgramatas.a353046/",
+      "author": "Orests Silabriedis",
+      "topics": [
+        "memory",
+        "participation"
+      ],
+      "writing": false,
+      "kind": "Raksts",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "media-127968",
+      "date": "2020-03-24",
+      "title": "“Pandēmijas dienasgrāmata”: žurnāls “Punctum” aicina dokumentēt šo laiku",
+      "url": "https://lr1.lsm.lv/lv/raksts/kulturas-rondo/pandemijas-dienasgramata-zurnals-punctum-aicina-dokumentet-so-la.a127968/",
+      "topics": [
+        "memory",
+        "participation"
+      ],
+      "writing": false,
+      "author": "",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-127994",
+      "date": "2020-03-24",
+      "title": "Pandēmijas dienasgrāmatas",
+      "url": "https://klasika.lsm.lv/lv/raksts/parmijas/sanita-reinsone-par-punctum-un-lu-projektu-pandemijas-dienasgram.a127994/",
+      "topics": [
+        "memory",
+        "participation"
+      ],
+      "writing": false,
+      "author": "Odisejs Kostanda",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 3",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "lsm-352356",
+      "date": "2020-03-19",
+      "title": "Internetā publicēs literātu un mākslinieku «Pandēmijas dienasgrāmatas»",
+      "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/interneta-publices-literatu-un-makslinieku-pandemijas-dienasgramatas.a352356/",
+      "author": "LSM.lv Kultūras redakcija",
+      "topics": [
+        "memory",
+        "participation"
+      ],
+      "writing": false,
+      "kind": "Ziņa",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lsm-345113",
+      "date": "2020-01-17",
+      "title": "Sanitas Reinsones grāmatu «Meža meitas» tulkos angļu valodā",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/sanitas-reinsones-gramatu-meza-meitas-tulkos-anglu-valoda.a345113/",
+      "author": "LSM.lv Kultūras redakcija",
+      "topics": [
+        "memory"
+      ],
+      "writing": true,
+      "kind": "Ziņa par grāmatu",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lr-119062",
+      "date": "2019-06-25",
+      "title": "Satikšanās ar dienasgrāmatas starpniecību mēdz mainīt uzskatus par vecākiem",
+      "url": "https://lr1.lsm.lv/lv/raksts/gimenes-studija/satiksanas-ar-dienasgramatas-starpniecibu-medz-mainit-uzskatus-p.a119062/",
+      "topics": [
+        "memory"
+      ],
+      "writing": false,
+      "author": "Agnese Linka, Ilze Zvaigzne",
+      "outlet": "Latvijas Radio 1 · Ģimenes studija",
+      "kind": "Radio saruna",
+      "source": "https://lr1.lsm.lv/lv/raksts/gimenes-studija/satiksanas-ar-dienasgramatas-starpniecibu-medz-mainit-uzskatus-p.a119062/"
+    },
+    {
+      "id": "lr-118753",
+      "date": "2019-06-13",
+      "title": "Pētnieki aicina apmeklēt digitālās koprades platformu “Iesaisties.lv”",
+      "url": "https://lr1.lsm.lv/lv/raksts/kulturas-rondo/atklas-digitalas-koprades-platformu-iesaisties.lv.a118753/",
+      "topics": [
+        "infrastructure",
+        "participation",
+        "folklore"
+      ],
+      "writing": false,
+      "author": "Ingvilda Strautmane, Santa Lauga, Zigfrīds Muktupāvels",
+      "outlet": "Latvijas Radio 1 · Kultūras rondo",
+      "kind": "Radio saruna",
+      "source": "https://lr1.lsm.lv/lv/raksts/kulturas-rondo/atklas-digitalas-koprades-platformu-iesaisties.lv.a118753/"
+    },
+    {
+      "id": "media-304521",
+      "date": "2018-12-30",
+      "title": "Pētniece atrisina 70 gadus senu «nezināmās meitenes» dienasgrāmatas mīklu",
+      "url": "https://www.lsm.lv/raksts/dzive--stils/vesture/petniece-atrisina-70-gadus-senu-nezinamas-meitenes-dienasgramatas-miklu.a304521/",
+      "topics": [
+        "memory"
+      ],
+      "writing": false,
+      "author": "Māra Rozenberga",
+      "kind": "Raksts",
+      "outlet": "LSM.lv",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "lr-111729",
+      "date": "2018-11-24",
+      "title": "Folkloras pētniece un rakstniece Sanita Reinsone",
+      "url": "https://naba.lsm.lv/lv/raksts/bronhits/folkloras-petniece-un-rakstniece-sanita-reinsone.a111729/",
+      "topics": [
+        "memory",
+        "folklore"
+      ],
+      "writing": true,
+      "author": "",
+      "outlet": "Radio NABA · Bron-Hīts",
+      "kind": "Radio saruna",
+      "source": "https://naba.lsm.lv/lv/raksts/bronhits/folkloras-petniece-un-rakstniece-sanita-reinsone.a111729/"
+    },
+    {
+      "id": "lsm-296573",
+      "date": "2018-10-19",
+      "title": "Aicina uz lekciju «Dzīves pierakstīšanas tradīcijas»",
+      "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/aicina-uz-lekciju-dzives-pierakstisanas-tradicijas.a296573/",
+      "author": "LSM.lv Kultūras redakcija",
+      "topics": [
+        "memory"
+      ],
+      "writing": false,
+      "kind": "Pasākuma pieteikums",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "media-103281",
+      "date": "2018-05-07",
+      "title": "Digitālais arhīvs garamantas.lv – grāmatās tādus materiālus izlasīt nevar",
+      "url": "https://lr1.lsm.lv/lv/raksts/kulturas-rondo/ieteikumi-ka-veiksmigak-darboties-digitalaja-arhiva-garamantas.l.a103281/",
+      "topics": [
+        "infrastructure",
+        "folklore"
+      ],
+      "writing": false,
+      "author": "Ingvilda Strautmane, Santa Lauga, Zigfrīds Muktupāvels",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "media-101524",
+      "date": "2018-03-26",
+      "title": "Folkloras pētījumi mūsdienās. Dārgumi LU Folkloras krātuves digitālajā arhīvā",
+      "url": "https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/folkloras-petijumi-musdienas.-dargumi-lu-folkloras-kratuves-digi.a101524/",
+      "topics": [
+        "infrastructure",
+        "folklore"
+      ],
+      "writing": false,
+      "author": "Sandra Kropa",
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1",
+      "source": "Iepriekš apkopotā publicitāte"
+    },
+    {
+      "id": "lsm-260001",
+      "date": "2017-12-06",
+      "title": "Režisors Mārtiņš Eihe Valmieras teātrī iestudē «Meža meitas»",
+      "url": "https://www.lsm.lv/raksts/kultura/teatris-un-deja/rezisors-martins-eihe-valmieras-teatri-iestude-meza-meitas.a260001/",
+      "author": "LSM.lv Kultūras redakcija",
+      "topics": [
+        "memory"
+      ],
+      "writing": true,
+      "kind": "Ziņa par iestudējumu",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lr-93538",
+      "date": "2017-10-15",
+      "title": "Au-ru-ru-ru. Au-ru-ru-ru. Kā tikt mājās? Apmaldīšanās stāsti latviešu folklorā",
+      "url": "https://replay.lsm.lv/lv/klausies/ieraksts/lr/93538/au-ru-ru-ru-au-ru-ru-ru-ka-tikt-majas-apmaldisanas-stasti-latviesu-folklora",
+      "author": "Iveta Medene",
+      "topics": [
+        "folklore"
+      ],
+      "writing": false,
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 1 · Laika Ritu Raksti",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/?src=lr"
+    },
+    {
+      "id": "lr-93362",
+      "date": "2017-10-11",
+      "title": "Sanitas Reinsones “Apmaldīšanās poētika teikās, stāstos un sarunās” un “Garā pupa”",
+      "url": "https://replay.lsm.lv/lv/klausies/ieraksts/lr/93362/sanitas-reinsones-apmaldisanas-poetika-teikas-stastos-un-sarunas-un-gara-pupa",
+      "author": "",
+      "topics": [
+        "folklore"
+      ],
+      "writing": false,
+      "kind": "Radio saruna",
+      "outlet": "Latvijas Radio 3 · Grāmatu stāsti",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/?src=lr"
+    },
+    {
+      "id": "lsm-250323",
+      "date": "2017-09-16",
+      "title": "Pētniece: Mīti par vadātāju rodas, orientieriem pazūdot zināmā vietā",
+      "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/petniece-miti-par-vadataju-rodas-orientieriem-pazudot-zinama-vieta.a250323/",
+      "author": "LSM.lv Ziņu redakcija",
+      "topics": [
+        "folklore"
+      ],
+      "writing": false,
+      "kind": "Raksts",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lsm-249212",
+      "date": "2017-09-06",
+      "title": "Publicēts Sanitas Reinsones pētījums «Apmaldīšanās poētika teikās, stāstos un sarunās»",
+      "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/publicets-sanitas-reinsones-petijums-apmaldisanas-poetika-teikas-stastos-un-sarunas.a249212/",
+      "author": "LSM.lv Kultūras redakcija",
+      "topics": [
+        "folklore"
+      ],
+      "writing": false,
+      "kind": "Ziņa par pētījumu",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lsm-218725",
+      "date": "2017-01-12",
+      "title": "Klajā nācis Sanitas Reinsones stāsts par Igaunijas leļļu bēgšanu uz Latviju",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/klaja-nacis-sanitas-reinsones-stasts-par-igaunijas-lellu-begsanu-uz-latviju.a218725/",
+      "author": "Baiba Kušķe",
+      "topics": [],
+      "writing": true,
+      "kind": "Ziņa par grāmatu",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lsm-210363",
+      "date": "2016-11-16",
+      "title": "Jaunie zinātnieki stiprai valstij: Sanita Reinsone desmit gadus pētījusi apmaldīšanās stāstus latviešu folklorā",
+      "url": "https://www.lsm.lv/raksts/dzive--stils/tehnologijas-un-zinatne/jaunie-zinatnieki-stiprai-valstij-sanita-reinsone-desmit-gadus-petijusi-apmaldisanas-stastus-latviesu-folklora.a210363/",
+      "author": "Māra Rozenberga",
+      "topics": [
+        "folklore"
+      ],
+      "writing": false,
+      "kind": "Raksts",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lsm-113417",
+      "date": "2015-01-13",
+      "title": "Skaudrie «meža meitu» stāsti – grāmatā",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/skaudrie-meza-meitu-stasti-gramata.a113417/",
+      "author": "Baiba Kušķe, Toms Treibergs",
+      "topics": [
+        "memory"
+      ],
+      "writing": true,
+      "kind": "Raksts",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    },
+    {
+      "id": "lsm-112889",
+      "date": "2015-01-08",
+      "title": "Klajā nākusi Sanitas Reinsones grāmata «Meža meitas»",
+      "url": "https://www.lsm.lv/raksts/kultura/literatura/klaja-nakusi-sanitas-reinsones-gramata-meza-meitas.a112889/",
+      "author": "LSM.lv Kultūras redakcija",
+      "topics": [
+        "memory"
+      ],
+      "writing": true,
+      "kind": "Ziņa par grāmatu",
+      "outlet": "LSM.lv",
+      "source": "https://www.lsm.lv/temas/sanita-reinsone/"
+    }
+  ]
+}

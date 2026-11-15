@@ -1,0 +1,327 @@
+{
+  "checked_on": "2026-11-15",
+  "records": [
+    {
+      "id": "media-source-124",
+      "date": "2024-07",
+      "title": "Grāmatplauktu stāsti. Saruna ar Sanitu Reinsoni",
+      "author": "Inga Pizāne",
+      "outlet": "Jānis Roze · Ziņnesis",
+      "kind": "Intervija",
+      "topics": [
+        "memory"
+      ],
+      "writing": true,
+      "url": "https://www.janisroze.lv/media/clnews/1719494794469908410.pdf.pagespeed.ce.MRPjlxKZa-.pdf",
+      "source_index": 124,
+      "original_text": "Inga Pizāne. Grāmatplauktu stāsti. Saruna ar Sanitu Reinsoni. 07.2024, Jānis Roze – Ziņnesis",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-126",
+      "date": "2023-06-22",
+      "title": "No zilām govīm līdz tēvutēvu stāstiem",
+      "author": "Egīls Zirnis",
+      "outlet": "SestDiena",
+      "kind": "Intervija",
+      "topics": [
+        "folklore",
+        "memory"
+      ],
+      "writing": true,
+      "url": "https://www.diena.lv/raksts/sestdiena/sestdienas-salons/no-zilam-govim-lidz-tevutevu-stastiem-14301103",
+      "source_index": 126,
+      "original_text": "Egīls Zirnis. No zilām govīm līdz tēvutēvu stāstiem. 22.06.2023, SestDiena",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-132",
+      "date": "2018-02-16",
+      "title": "Latviešu folkloras krātuves vadošā pētniece Sanita Reinsone. Stāstu uzklausītāja",
+      "author": "Līga Blaua",
+      "outlet": "Ievas Stāsti",
+      "kind": "Intervija",
+      "topics": [
+        "folklore",
+        "memory"
+      ],
+      "writing": true,
+      "url": "https://www.santa.lv/raksts/ieva/latviesu-folkloras-kratuves-vadosa-petniece-sanita-reinsone.-stastu-uzklausitaja-27941/",
+      "source_index": 132,
+      "original_text": "Līga Blaua. Latviešu folkloras krātuves vadošā pētniece Sanita Reinsone. Stāstu uzklausītāja. 16.02.2018, Ievas Stāsti",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-134",
+      "date": "2017-04-28",
+      "title": "Kaut kāda nesaprašanās ar laikmetu",
+      "author": "Raivis Vilūns",
+      "outlet": "SestDiena",
+      "kind": "Intervija",
+      "topics": [
+        "memory"
+      ],
+      "writing": true,
+      "url": "https://www.diena.lv/raksts/sestdiena/intervijas/kaut-kada-nesaprasanas-ar-laikmetu-14171067",
+      "source_index": 134,
+      "original_text": "Raivis Vilūns. Kaut kāda nesprašanās ar laikmetu. 28.04.2017, SestDiena",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-141",
+      "date": "2022-03-23",
+      "title": "‘Science for Ukraine’ – How European scholars help their Ukrainian colleagues",
+      "author": "Tobias Hoffmann",
+      "outlet": "European Science-Media Hub",
+      "kind": "Intervija",
+      "topics": [
+        "participation"
+      ],
+      "writing": false,
+      "url": "https://sciencemediahub.eu/2022/03/23/science-for-ukraine-how-european-scholars-help-their-ukrainian-colleagues/",
+      "source_index": 141,
+      "original_text": "Tobias Hoffmann, ‘Science for Ukraine’ – How European scholars help their Ukrainian colleagues, 23.03.2022, European Science-Media Hub",
+      "scienceforukraine": true
+    },
+    {
+      "id": "media-source-143",
+      "date": "2022-03-03",
+      "title": "Es importante ofrecer oportunidades temporales a los científicos que han tenido que huir de Ucrania",
+      "author": "Alicia Moreno, Diego Salvadores",
+      "outlet": "Agencia SINC",
+      "kind": "Intervija",
+      "topics": [
+        "participation"
+      ],
+      "writing": false,
+      "url": "https://www.agenciasinc.es/Entrevistas/Es-importante-ofrecer-oportunidades-temporales-a-los-cientificos-que-han-tenido-que-huir-de-Ucrania",
+      "source_index": 143,
+      "original_text": "Alicia Moreno, Diego Salvadores, Sanita Reinsone y Oleksandra Ivashchenko, impulsoras de #ScienceForUkraine, 3.03.2022, Agencia Sinc",
+      "scienceforukraine": true
+    },
+    {
+      "id": "media-source-145",
+      "date": "2022-02-28",
+      "title": "Meet the Latvian scholar rallying support for Ukrainian researchers",
+      "author": "Yvan Pandelé",
+      "outlet": "Geneva Solutions",
+      "kind": "Intervija",
+      "topics": [
+        "participation"
+      ],
+      "writing": false,
+      "url": "https://genevasolutions.news/science-tech/meet-the-latvian-scholar-rallying-support-for-ukrainian-researchers",
+      "source_index": 145,
+      "original_text": "Yvan Pandele, Meet the Latvian scholar rallying support for Ukrainian researchers, 28.02.2022, Geneva Solutions News",
+      "scienceforukraine": true
+    },
+    {
+      "id": "media-source-147",
+      "date": "2022-02-28",
+      "title": "#ScienceForUkraine: rencontre avec la chercheuse lettone qui veut mobiliser les universités",
+      "author": "Yvan Pandelé",
+      "outlet": "Heidi.news",
+      "kind": "Intervija",
+      "topics": [
+        "participation"
+      ],
+      "writing": false,
+      "url": "https://www.heidi.news/sciences-climat/science-for-ukraine-entretien-avec-la-chercheuse-lettone-qui-veut-mobiliser-les-universites",
+      "source_index": 147,
+      "original_text": "Yvan Pandele, #ScienceForUkraine: rencontre avec la chercheuse lettone qui veut mobiliser les universités, 28.02.2022, Heidi News",
+      "scienceforukraine": true
+    },
+    {
+      "id": "media-source-164",
+      "date": "2023-07-05",
+      "title": "Dziesmu un deju svētku dalībnieki aicināti piedalīties Balsu talkā",
+      "author": "Kārlis Kasparsons",
+      "outlet": "TV3 · 900 sekundes",
+      "kind": "TV sižets",
+      "topics": [
+        "participation",
+        "language"
+      ],
+      "writing": false,
+      "url": "https://zinas.tv3.lv/900-sekundes/dziesmu-un-deju-svetku-dalibnieki-aicinati-piedalities-balsu-talka/",
+      "source_index": 164,
+      "original_text": "Kārlis Kasparsons. Dziesmu un deju svētku dalībnieki aicināti piedalīties Balsu talkā. TV3, 5.07.2023",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-166",
+      "date": "2023-01-30",
+      "title": "Paaudžu paaudzēs nodotās lietas mūs ietekmē vairāk, nekā apzināmies",
+      "author": "Ilona Gehtmane-Hofmane",
+      "outlet": "Zinātnes Vēstnesis",
+      "kind": "Intervija",
+      "topics": [
+        "memory",
+        "folklore"
+      ],
+      "writing": false,
+      "url": "https://www.lza.lv/publikacijas/zinatnes-vestnesis/1391-paaudzu-paaudzes-nodotas-lietas-mus-ietekme-vairak-neka-apzinamies-zinatnes-vestnesis",
+      "source_index": 166,
+      "original_text": "Gehtmane-Hofmane, Ilona. Paaudžu paaudzēs nodotās lietas mūs ietekmē vairāk, nekā apzināmies. Zinātnes Vēstnesis, 30.01.2023",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-168",
+      "date": "2019-02-13",
+      "title": "Tour de CLARIN: Interview with Sanita Reinsone",
+      "author": "Jakob Lenardič",
+      "outlet": "CLARIN",
+      "kind": "Intervija",
+      "topics": [
+        "infrastructure",
+        "folklore",
+        "participation",
+        "language"
+      ],
+      "writing": false,
+      "url": "https://www.clarin.eu/blog/tour-de-clarin-interview-sanita-reinsone",
+      "source_index": 168,
+      "original_text": "Jakob Lenardič. Tour de CLARIN: Interview with Sanita Reinsone. 13.02.2019",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-175",
+      "date": "2025-10-06",
+      "title": "Dienasgrāmata vs. «X»: Kas paliks no 2025. gada – papīrs vai mākonis?",
+      "author": "Paula Kārkluvalka",
+      "outlet": "ReTalsi.lv",
+      "kind": "Raksts",
+      "topics": [
+        "memory"
+      ],
+      "writing": false,
+      "url": "https://retalsi.lv/zinas-talsu-novads/dienasgramata-vs-x-kas-paliks-no-2025-gada/",
+      "source_index": 175,
+      "original_text": "Paula Kārkluvalka. Dienasgrāmata vs. «X»: Kas paliks no 2025. gada – papīrs vai mākonis? 06.10.2025, retalsi.lv",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-177",
+      "date": "2022-10-12",
+      "title": "Klausītava",
+      "author": "",
+      "outlet": "Latvijas Nacionālā bibliotēka",
+      "kind": "Raidieraksts",
+      "topics": [
+        "memory"
+      ],
+      "writing": false,
+      "url": "https://open.spotify.com/episode/3LrBshwLjk7tMDrAs2Oqhm",
+      "source_index": 177,
+      "original_text": "Raidieraksts \"Klausītava\". Latvijas Nacionālā bibliotēka. 12.10.2022.",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-185",
+      "date": "2020-05-06",
+      "title": "Saglabāt laiku dienasgrāmatās: aicina rakstīt un sūtīt pandēmijas laika dienasgrāmatas",
+      "author": "Gundega Skagale",
+      "outlet": "Latvijas Avīze",
+      "kind": "Raksts",
+      "topics": [
+        "memory",
+        "participation"
+      ],
+      "writing": false,
+      "url": "https://www.la.lv/saglabat-laiku-dienasgramatas",
+      "source_index": 185,
+      "original_text": "Gundega Skagale. Saglabāt laiku dienasgrāmatās: aicina rakstīt un sūtīt pandēmijas laika dienasgrāmatas, 6.05.2020, Latvijas Avīze",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-193",
+      "date": "2019-06",
+      "title": "Alma Mater",
+      "author": "",
+      "outlet": "VFS Films",
+      "kind": "Video portrets",
+      "topics": [
+        "memory",
+        "folklore"
+      ],
+      "writing": false,
+      "url": "https://youtu.be/irL5B8opaEw?t=296",
+      "source_index": 193,
+      "original_text": "Alma Mater. Vides filmu studija. 2019. gada jūnijs.",
+      "scienceforukraine": false
+    },
+    {
+      "id": "media-source-197",
+      "date": "2018-04-09",
+      "title": "Folklora dzīvo ne tikai Brīvdabas muzejā, bet nu arī tviterī – pētnieki meklē veidus, kā ieinteresēt iedzīvotājus",
+      "author": "Andra Pērkone",
+      "outlet": "LNT",
+      "kind": "TV sižets",
+      "topics": [
+        "folklore",
+        "participation"
+      ],
+      "writing": false,
+      "url": "https://skaties.lv/zinas/latvija/folklora-dzivo-ne-tikai-brivdabas-muzeja-bet-nu-ari-tviteri-petnieki-mekle-veidus-ka-ieintereset-iedzivotajus/",
+      "source_index": 197,
+      "original_text": "Andra Pērkone. Folklora dzīvo ne tikai Brīvdabas muzejā, bet nu arī tviterī – pētnieki meklē veidus, kā ieinteresēt iedzīvotājus, 9.04.2018, LNT TV",
+      "scienceforukraine": false
+    },
+    {
+      "id": "science-latvia-video",
+      "date": "2018",
+      "title": "ZinātneLatvijā video rullītis",
+      "author": "",
+      "outlet": "ZinātneLatvijā",
+      "kind": "Video",
+      "topics": [
+        "folklore"
+      ],
+      "writing": false,
+      "url": "",
+      "source_index": 202,
+      "original_text": "ZinātneLatvijā video rullītis (2018)"
+    },
+    {
+      "id": "ir-tuvak-pamatiem",
+      "date": "2025-06-26",
+      "title": "Tuvāk pamatiem",
+      "author": "Osvalds Zebris",
+      "outlet": "Domuzīme · Ir",
+      "kind": "Saruna",
+      "topics": [
+        "folklore"
+      ],
+      "writing": false,
+      "url": "https://ir.lv/kultura/tuvak-pamatiem.219564",
+      "source": "https://ir.lv/kultura/tuvak-pamatiem.219564"
+    },
+    {
+      "id": "dh-podcast-4",
+      "date": "2024-02-12",
+      "title": "Sabiedriskā zinātne un DH",
+      "author": "Haralds Matulis",
+      "outlet": "Digitālās humanitārās zinātnes · 4. epizode",
+      "kind": "Raidieraksts",
+      "topics": [
+        "participation",
+        "infrastructure"
+      ],
+      "writing": false,
+      "url": "https://www.youtube.com/watch?v=lpz-hpCr-x4",
+      "source": "https://www.lulfmi.lv/en/news/the-4th-episode-of-the-podcast-digital-humanities-has-been-released"
+    },
+    {
+      "id": "limbazi-agupite",
+      "date": "2025-11-14",
+      "title": "Kopā ar PII Aģupīte bērniem grāmatā “Draugi un kaimiņi” ielūkojas tās autore Sanita Reinsone",
+      "author": "Aiga Hincenberga",
+      "outlet": "Limbažu novada Galvenā bibliotēka",
+      "kind": "Ziņa par tikšanos",
+      "topics": [],
+      "writing": true,
+      "url": "https://www.limbazubiblioteka.lv/lv/jaunumi/kopa_ar_pii_agupite_berniem_gramata_draugi_un_kaimini_ielukojas_tas_autore_sanita_reinsone_1/",
+      "source": "https://www.limbazubiblioteka.lv/lv/jaunumi/kopa_ar_pii_agupite_berniem_gramata_draugi_un_kaimini_ielukojas_tas_autore_sanita_reinsone_1/?page=3"
+    }
+  ]
+}

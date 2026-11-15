@@ -1,0 +1,42 @@
+{
+  "checked_on": "2026-11-15",
+  "source": "https://scienceforukraine.eu/press/",
+  "records": [
+    {
+      "id": "nature-sfu-2024",
+      "title": "The grassroots organizations continuing the fight for Ukrainian science",
+      "date": "2024-09-11",
+      "author": "Oscar Allan",
+      "outlet": "Nature",
+      "kind": "Raksts",
+      "url": "https://www.nature.com/articles/d41586-024-02957-7"
+    },
+    {
+      "id": "nature-sfu-2023",
+      "title": "The fight to keep Ukrainian science alive through a year of war",
+      "date": "2023-02-22",
+      "author": "Aisling Irwin",
+      "outlet": "Nature",
+      "kind": "Raksts",
+      "url": "https://www.nature.com/articles/d41586-023-00508-0"
+    },
+    {
+      "id": "science-sfu-2022",
+      "title": "Ukrainian researchers flee trauma and terror of war",
+      "date": "2022-03-14",
+      "author": "Richard Stone",
+      "outlet": "Science · ScienceInsider",
+      "kind": "Raksts",
+      "url": "https://www.science.org/content/article/ukrainian-researchers-flee-trauma-and-terror-war"
+    },
+    {
+      "id": "nature-sfu-2022",
+      "title": "‘I thought I had forgotten this horror’: Ukrainian scientists stand in defiance",
+      "date": "2022-03-02",
+      "author": "Nisha Gaind, Holly Else, Antoaneta Roussi",
+      "outlet": "Nature",
+      "kind": "Raksts",
+      "url": "https://www.nature.com/articles/d41586-022-00621-6"
+    }
+  ]
+}

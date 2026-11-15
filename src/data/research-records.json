@@ -1,0 +1,3223 @@
+{
+  "folklore": {
+    "title": "Folkloras arhīvi un digitālā folkloristika",
+    "type": "Tēma",
+    "related": [
+      "participation",
+      "infrastructure",
+      "memory"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "garamantaspaper",
+          "transcription",
+          "plants"
+        ]
+      ],
+      [
+        "Datu kopas",
+        [
+          "teikas-corpus"
+        ]
+      ],
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "teikas",
+          "garamantas",
+          "pasakas"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "isfnr",
+          "dariah2025",
+          "turku2025",
+          "archive-dynamics",
+          "isfnr-talk"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "nams",
+          "digarch",
+          "dheli",
+          "engagement-project"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "garamantasradio",
+          "lsm-608701",
+          "lsm-450023",
+          "lr-93538",
+          "lr-93362",
+          "lsm-250323",
+          "lsm-210363",
+          "lr-225311",
+          "lr-221163",
+          "media-338393",
+          "diaryradio",
+          "lr-118753",
+          "lr-111729",
+          "media-101524"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "iesaisties-campaigns",
+          "simtgades-burtnieki"
+        ]
+      ]
+    ]
+  },
+  "memory": {
+    "title": "Atmiņu mantojums un dzīves pierakstīšana",
+    "type": "Tēma",
+    "related": [
+      "participation",
+      "folklore",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "beyond",
+          "covidchapter",
+          "uncertainty",
+          "date-detection"
+        ]
+      ],
+      [
+        "Datu kopas",
+        [
+          "autobiography-corpus",
+          "pandemic-diaries-corpus"
+        ]
+      ],
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "autobiography"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "iaba2025",
+          "sief2025-diaries",
+          "iaba2019-autobiography"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "linnaea",
+          "ewing",
+          "aister"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "diaryradio",
+          "retalsi",
+          "lsm-608701",
+          "lsm-450023",
+          "lsm-387272",
+          "lr-137085",
+          "lsm-357203",
+          "lsm-296573",
+          "media-202205",
+          "media-159852",
+          "media-208167",
+          "media-128475",
+          "media-127968",
+          "media-127994",
+          "lr-119062",
+          "media-304521",
+          "lr-111729"
+        ]
+      ],
+      [
+        "Saistītās tēmas",
+        [
+          "risk"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "pandemic-diaries-campaign",
+          "autobiography-campaign"
+        ]
+      ]
+    ]
+  },
+  "risk": {
+    "title": "Kultūras mantojums apdraudējuma apstākļos",
+    "type": "Projekta temats",
+    "related": [
+      "memory",
+      "infrastructure",
+      "participation"
+    ],
+    "groups": [
+      [
+        "Projekti",
+        [
+          "aister"
+        ]
+      ],
+      [
+        "Datu kopas",
+        [
+          "inventory"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "europeana"
+        ]
+      ]
+    ]
+  },
+  "participation": {
+    "title": "Zinātne un sabiedrība",
+    "type": "Tēma",
+    "related": [
+      "memory",
+      "folklore",
+      "language",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Darbības virzieni",
+        [
+          "public-engagement",
+          "science-communication",
+          "science-activism"
+        ]
+      ],
+      [
+        "Iniciatīvas",
+        [
+          "scienceforukraine"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka",
+          "pandemic-diaries-campaign",
+          "autobiography-campaign",
+          "iesaisties-campaigns",
+          "simtgades-burtnieki"
+        ]
+      ],
+      [
+        "Publikācijas",
+        [
+          "beyond",
+          "iesaistiespaper",
+          "vocabulary",
+          "transcription",
+          "boosting",
+          "publication-62",
+          "publication-66",
+          "publication-70"
+        ]
+      ],
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "researchgames",
+          "autobiography",
+          "garamantas",
+          "iesaisties",
+          "humma-platform"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "rome",
+          "europeana",
+          "voices",
+          "archive-dynamics",
+          "sief2025-diaries",
+          "iaba2019-autobiography"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "open",
+          "engagement-project",
+          "aister",
+          "vti"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "citizenscience",
+          "romareport",
+          "lsm-450023",
+          "lsm-387272",
+          "lr-137085",
+          "lsm-357203",
+          "lr-225311",
+          "media-202205",
+          "media-338393",
+          "media-326203",
+          "media-189984",
+          "media-180868",
+          "media-159475",
+          "media-157300",
+          "media-208167",
+          "media-127968",
+          "media-127994",
+          "lr-118753",
+          "nature-sfu-2024",
+          "nature-sfu-2023",
+          "science-sfu-2022",
+          "nature-sfu-2022"
+        ]
+      ],
+      [
+        "Ziņojumi",
+        [
+          "scienceforukraine-report"
+        ]
+      ],
+      [
+        "Apbalvojumi",
+        [
+          "citizen-science-award",
+          "woman-leader-award",
+          "cabinet-recognition",
+          "rector-recognition"
+        ]
+      ],
+      [
+        "Lomas",
+        [
+          "lu-science-ambassador",
+          "citizen-science-ambassador"
+        ]
+      ]
+    ]
+  },
+  "infrastructure": {
+    "title": "Digitālās humanitārās zinātnes un pētniecības infrastruktūra",
+    "type": "Tēma",
+    "related": [
+      "folklore",
+      "language",
+      "participation",
+      "memory"
+    ],
+    "groups": [
+      [
+        "Centrs",
+        [
+          "dhc"
+        ]
+      ],
+      [
+        "Pētniecības infrastruktūras",
+        [
+          "dariah",
+          "clarin-lv"
+        ]
+      ],
+      [
+        "Platformas, digitālie resursi un krājumi",
+        [
+          "digitalhumanities",
+          "teikas",
+          "researchgames",
+          "autobiography",
+          "humma-platform",
+          "garamantas",
+          "iesaisties",
+          "pasakas"
+        ]
+      ],
+      [
+        "Publikācijas",
+        [
+          "humma",
+          "garamantaspaper",
+          "boosting",
+          "date-detection"
+        ]
+      ],
+      [
+        "Datu kopas",
+        [
+          "inventory",
+          "teikas-corpus",
+          "autobiography-corpus",
+          "pandemic-diaries-corpus"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "rome",
+          "clarin",
+          "isfnr",
+          "dariah2025",
+          "sief2025-diaries"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "open",
+          "linnaea",
+          "digilate",
+          "dheli",
+          "digarch",
+          "aister",
+          "vti",
+          "vpp-language",
+          "digital-resources-project",
+          "data4ua"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "romareport",
+          "lsm-608701",
+          "lsm-450023",
+          "lr-225311",
+          "lr-221163",
+          "media-338393",
+          "media-151101",
+          "lr-118753",
+          "garamantasradio",
+          "media-101524"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka"
+        ]
+      ]
+    ]
+  },
+  "garamantas": {
+    "title": "Garamantas.lv",
+    "type": "Digitāls resurss",
+    "related": [
+      "folklore",
+      "participation",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Saistītās uzstāšanās",
+        [
+          "isfnr"
+        ]
+      ]
+    ],
+    "url": "https://garamantas.lv/",
+    "source": "Atvērt Garamantas.lv",
+    "past_label": "Agrākā darbība šajā resursā"
+  },
+  "diaries": {
+    "title": "Pandēmijas dienasgrāmatas",
+    "type": "Projekts un krājums",
+    "related": [
+      "memory",
+      "participation",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "beyond",
+          "covidchapter",
+          "uncertainty"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "iaba2025",
+          "sief2025-diaries"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "diaryradio"
+        ]
+      ],
+      [
+        "LSM materiāli",
+        [
+          "lsm-387272",
+          "lsm-357203",
+          "lr-137085"
+        ]
+      ],
+      [
+        "Datu kopas",
+        [
+          "pandemic-diaries-corpus"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "pandemic-diaries-campaign"
+        ]
+      ]
+    ],
+    "url": "https://garamantas.lv/lv/collection/1415829/Diaries-in-the-Time-of-Pandemic-2020-2021",
+    "source": "Atvērt krājumu"
+  },
+  "autobiography": {
+    "title": "Latviešu folkloras krātuves Autobiogrāfiju krājums",
+    "type": "Krājums",
+    "related": [
+      "memory",
+      "participation"
+    ],
+    "groups": [
+      [
+        "Saistītie materiāli",
+        [
+          "beyond"
+        ]
+      ],
+      [
+        "Datu kopas",
+        [
+          "autobiography-corpus"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "autobiography-campaign"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "iaba2019-autobiography"
+        ]
+      ]
+    ],
+    "url": "https://autobiografijas.lv/",
+    "source": "Atvērt krājumu",
+    "meta": "autobiografijas.lv · Krājumā ietilpst arī Pandēmijas dienasgrāmatas."
+  },
+  "beyond": {
+    "title": "Beyond the archive shelves: Navigating digital archiving of life writing legacy through public involvement",
+    "type": "Publikācija",
+    "meta": "Reinsone, S., Ļaksa-Timinska, I., & Žvarte, E. (2026). Beyond the archive shelves: Navigating digital archiving of life writing legacy through public involvement. a/b: Auto/Biography Studies, 41(1), 87–108. https://doi.org/10.1080/08989575.2025.2515647",
+    "related": [
+      "memory",
+      "participation",
+      "diaries"
+    ],
+    "url": "https://doi.org/10.1080/08989575.2025.2515647",
+    "source": "DOI",
+    "sort_date": "2026",
+    "bibliography": {
+      "authors_year": "Reinsone, S., Ļaksa-Timinska, I., & Žvarte, E. (2026).",
+      "descriptor": null,
+      "tail_html": "<em>a/b: Auto/Biography Studies, 41</em>(1), 87–108.",
+      "doi": "10.1080/08989575.2025.2515647",
+      "reference_html": "Reinsone, S., Ļaksa-Timinska, I., &amp; Žvarte, E. (2026). Beyond the archive shelves: Navigating digital archiving of life writing legacy through public involvement. <em>a/b: Auto/Biography Studies, 41</em>(1), 87–108. https://doi.org/10.1080/08989575.2025.2515647"
+    },
+    "groups": []
+  },
+  "covidchapter": {
+    "title": "Crowdsourced: COVID-19, life writing, and collective memory in Latvia",
+    "type": "Nodaļa grāmatā",
+    "meta": "Reinsone, S., Ļaksa-Timinska, I., Matulis, H., & Žvarte, E. (2026). Crowdsourced: COVID-19, life writing, and collective memory in Latvia. In I. Gammel & J. Wang (Eds.), Writing COVID-19 lives (pp. 78–90). Routledge. https://doi.org/10.4324/9781003735595-9",
+    "related": [
+      "memory",
+      "participation",
+      "diaries"
+    ],
+    "url": "https://doi.org/10.4324/9781003735595-9",
+    "source": "DOI",
+    "sort_date": "2026",
+    "bibliography": {
+      "authors_year": "Reinsone, S., Ļaksa-Timinska, I., Matulis, H., & Žvarte, E. (2026).",
+      "descriptor": null,
+      "tail_html": "In I. Gammel & J. Wang (Eds.), <em>Writing COVID-19 lives</em> (pp. 78–90). Routledge.",
+      "doi": "10.4324/9781003735595-9",
+      "reference_html": "Reinsone, S., Ļaksa-Timinska, I., Matulis, H., &amp; Žvarte, E. (2026). Crowdsourced: COVID-19, life writing, and collective memory in Latvia. In I. Gammel & J. Wang (Eds.), <em>Writing COVID-19 lives</em> (pp. 78–90). Routledge. https://doi.org/10.4324/9781003735595-9"
+    },
+    "groups": []
+  },
+  "inventory": {
+    "title": "Inventory of heritage preservation research projects combining AI and public participation",
+    "type": "Datu kopa",
+    "meta": "2026 · AISTER · Mariana Ziku, Katerina Zourou; Sanita Reinsone – līdzdalībniece (Researcher)",
+    "related": [
+      "aister",
+      "participation",
+      "risk",
+      "infrastructure"
+    ],
+    "url": "https://zenodo.org/records/19504692",
+    "source": "Datu kopa Zenodo ",
+    "groups": []
+  },
+  "rome": {
+    "title": "Digital Arts and Humanities With and For Society: Building Infrastructures of Engagement",
+    "type": "Plenārdiskusija",
+    "meta": "26.05.2026 · DARIAH Annual Event · Roma · uzaicināta plenārdiskusijas dalībniece",
+    "related": [
+      "participation",
+      "infrastructure"
+    ],
+    "url": "https://www.dariah.eu/news/dariah-annual-event-2026-call-for-papers-now-open",
+    "source": "DARIAH atklāšanas diskusijas programma ",
+    "groups": []
+  },
+  "isfnr": {
+    "title": "Digital Infrastructures for Folk Narrative Research: Mapping Northern European Resources",
+    "type": "Plakātreferāts",
+    "meta": "ISFNR2026 · 13.–16.06.2026 · Reikjavīka, Islande · Sanita Reinsone un līdzautori",
+    "related": [
+      "folklore",
+      "infrastructure",
+      "garamantas"
+    ],
+    "url": "https://nomadit.co.uk/conference/isfnr2026/paper/92373",
+    "source": "Posters konferences programmā ",
+    "groups": [
+      [
+        "Tajā pašā konferencē",
+        [
+          "isfnr-talk"
+        ]
+      ]
+    ]
+  },
+  "clarin": {
+    "title": "Ceļā uz DARIAH-LV",
+    "type": "Priekšlasījums",
+    "meta": "05.03.2026 · CLARIN–DARIAH pavasara konference · Rīga",
+    "related": [
+      "infrastructure"
+    ],
+    "url": "https://digitalhumanities.lv/en/events/clarin-dariah-spring-conference-2026/",
+    "source": "Konferences programma ",
+    "groups": []
+  },
+  "europeana": {
+    "title": "AISTER · Digital skills and community empowerment",
+    "type": "Profesionāla sesija",
+    "meta": "12.11.2026 · Europeana Project Month · līdzorganizatore un runātāja · tiešsaistē",
+    "related": [
+      "aister",
+      "risk",
+      "participation"
+    ],
+    "url": "https://www.dataspace-culturalheritage.eu/en/news/europeana-project-month-2026-the-data-space-in-practice-tools-impact-and-synergies",
+    "source": "Europeana pasākuma programma ",
+    "groups": []
+  },
+  "aister": {
+    "title": "AISTER",
+    "type": "Projekts",
+    "meta": "2025–2027 · Latvijas partnerības koordinatore",
+    "related": [
+      "memory",
+      "infrastructure",
+      "participation",
+      "risk"
+    ],
+    "groups": [
+      [
+        "Datu kopas",
+        [
+          "inventory"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "europeana"
+        ]
+      ]
+    ],
+    "url": "https://aister.uni.lu/",
+    "source": "Projekta mājaslapa",
+    "sort_date": "2025",
+    "project": {
+      "id": "aister",
+      "short_name": "AISTER",
+      "full_name": "AI-enabled Citizen Participation in University-driven Ukrainian Cultural Heritage Safeguarding",
+      "period": "2025–2027",
+      "dates": "",
+      "programme": "Erasmus+ KA2",
+      "funding": "",
+      "role": "Latvijas partnerības koordinatore",
+      "coordinator": "C2DH, Luksemburgas Universitāte",
+      "partners": "",
+      "identifier": "",
+      "institution_role": "",
+      "url": "https://aister.uni.lu/",
+      "original_text": "2025–2027: AISTER: AI-enabled Citizen Participation in University-driven Ukrainian Cultural Heritage Safeguarding. Finansējums: EU Erasmus+ KA2. Vadošais partneris: C2DH Luksemburgas Universitāte. Loma: Latvijas partnerības koordinatore",
+      "sort_date": "2025",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "AI-enabled Citizen Participation in University-driven Ukrainian Cultural Heritage Safeguarding"
+        ],
+        [
+          "Periods",
+          "2025–2027"
+        ],
+        [
+          "Programma",
+          "Erasmus+ KA2"
+        ],
+        [
+          "Koordinators",
+          "C2DH, Luksemburgas Universitāte"
+        ],
+        [
+          "Mana loma",
+          "Latvijas partnerības koordinatore"
+        ]
+      ]
+    }
+  },
+  "uncertainty": {
+    "title": "Archiving uncertainty: Leveraging crowdsourcing methodology in documenting personal experiences of COVID-19",
+    "type": "Publikācija",
+    "meta": "Reinsone, S., Ļaksa-Timinska, I., Matulis, H., & Žvarte, E. (2025). Archiving uncertainty: Leveraging crowdsourcing methodology in documenting personal experiences of COVID-19. European Journal of Life Writing, 14, LD1–LD34. https://doi.org/10.21827/ejlw.14.42325",
+    "related": [
+      "memory",
+      "participation",
+      "diaries"
+    ],
+    "url": "https://doi.org/10.21827/ejlw.14.42325",
+    "source": "DOI",
+    "sort_date": "2025",
+    "bibliography": {
+      "authors_year": "Reinsone, S., Ļaksa-Timinska, I., Matulis, H., & Žvarte, E. (2025).",
+      "descriptor": null,
+      "tail_html": "<em>European Journal of Life Writing, 14</em>, LD1–LD34.",
+      "doi": "10.21827/ejlw.14.42325",
+      "reference_html": "Reinsone, S., Ļaksa-Timinska, I., Matulis, H., &amp; Žvarte, E. (2025). Archiving uncertainty: Leveraging crowdsourcing methodology in documenting personal experiences of COVID-19. <em>European Journal of Life Writing, 14</em>, LD1–LD34. https://doi.org/10.21827/ejlw.14.42325"
+    },
+    "groups": []
+  },
+  "humma": {
+    "title": "HUMMA.LV: Towards a collaborative digital platform for humanities and arts in Latvia",
+    "type": "Publikācija",
+    "meta": "Laime, S., & Reinsone, S. (2024). HUMMA.LV: Towards a collaborative digital platform for humanities and arts in Latvia. Baltic Journal of Modern Computing, 12(4), 487–492. https://doi.org/10.22364/bjmc.2024.12.4.10",
+    "related": [
+      "infrastructure",
+      "folklore"
+    ],
+    "url": "https://doi.org/10.22364/bjmc.2024.12.4.10",
+    "source": "DOI",
+    "sort_date": "2024",
+    "bibliography": {
+      "authors_year": "Laime, S., & Reinsone, S. (2024).",
+      "descriptor": null,
+      "tail_html": "<em>Baltic Journal of Modern Computing, 12</em>(4), 487–492.",
+      "doi": "10.22364/bjmc.2024.12.4.10",
+      "reference_html": "Laime, S., &amp; Reinsone, S. (2024). HUMMA.LV: Towards a collaborative digital platform for humanities and arts in Latvia. <em>Baltic Journal of Modern Computing, 12</em>(4), 487–492. https://doi.org/10.22364/bjmc.2024.12.4.10"
+    },
+    "groups": []
+  },
+  "iesaistiespaper": {
+    "title": "Promoting digital citizen science for humanities and cultural heritage: iesaisties.lv",
+    "type": "Publikācija",
+    "meta": "Gailīte, E., Reinsone, S., & Ļaksa-Timinska, I. (2024). Promoting digital citizen science for humanities and cultural heritage: iesaisties.lv. Baltic Journal of Modern Computing, 12(4), 468–476. https://doi.org/10.22364/bjmc.2024.12.4.08",
+    "related": [
+      "participation",
+      "infrastructure"
+    ],
+    "url": "https://doi.org/10.22364/bjmc.2024.12.4.08",
+    "source": "DOI",
+    "sort_date": "2024",
+    "bibliography": {
+      "authors_year": "Gailīte, E., Reinsone, S., & Ļaksa-Timinska, I. (2024).",
+      "descriptor": null,
+      "tail_html": "<em>Baltic Journal of Modern Computing, 12</em>(4), 468–476.",
+      "doi": "10.22364/bjmc.2024.12.4.08",
+      "reference_html": "Gailīte, E., Reinsone, S., &amp; Ļaksa-Timinska, I. (2024). Promoting digital citizen science for humanities and cultural heritage: iesaisties.lv. <em>Baltic Journal of Modern Computing, 12</em>(4), 468–476. https://doi.org/10.22364/bjmc.2024.12.4.08"
+    },
+    "groups": []
+  },
+  "garamantaspaper": {
+    "title": "Latviešu folkloras krātuves digitālais arhīvs garamantas.lv: priekšvēsture un attīstība",
+    "type": "Publikācija",
+    "meta": "Reinsone, S., & Laime, S. (2022). Latviešu folkloras krātuves digitālais arhīvs garamantas.lv: priekšvēsture un attīstība. Letonica, 2022(47), 52–69. https://doi.org/10.35539/LTNC.2022.0047.S.R.S.L.52.69",
+    "related": [
+      "folklore",
+      "infrastructure",
+      "garamantas"
+    ],
+    "url": "https://doi.org/10.35539/LTNC.2022.0047.S.R.S.L.52.69",
+    "source": "DOI",
+    "sort_date": "2022",
+    "bibliography": {
+      "authors_year": "Reinsone, S., & Laime, S. (2022).",
+      "descriptor": null,
+      "tail_html": "<em>Letonica, 2022</em>(47), 52–69.",
+      "doi": "10.35539/LTNC.2022.0047.S.R.S.L.52.69",
+      "reference_html": "Reinsone, S., &amp; Laime, S. (2022). Latviešu folkloras krātuves digitālais arhīvs garamantas.lv: priekšvēsture un attīstība. <em>Letonica, 2022</em>(47), 52–69. https://doi.org/10.35539/LTNC.2022.0047.S.R.S.L.52.69"
+    },
+    "groups": []
+  },
+  "iaba2025": {
+    "title": "From Private Reflections to Public Records: Computational Analysis of Pandemic Diaries",
+    "type": "Konferences referāts",
+    "meta": "23.–25.07.2025 · H. Matulis, S. Reinsone, E. Žvarte, I. Ļaksa-Timinska · IABA Europe · Koimbra, Portugāle",
+    "related": [
+      "memory",
+      "diaries",
+      "infrastructure"
+    ],
+    "url": "https://www.sanitareinsone.lv/en/outreach",
+    "source": "Autores uzstāšanos saraksts",
+    "groups": []
+  },
+  "turku2025": {
+    "title": "Where Have All the Demons Gone? The Fragmented Demonological Heritage in the Smiltene Region of Northern Latvia",
+    "type": "Konferences referāts",
+    "meta": "11.–14.06.2025 · Sanita Reinsone · 36th NEFK · Turku, Somija",
+    "related": [
+      "folklore"
+    ],
+    "url": "https://www.sanitareinsone.lv/en/outreach",
+    "source": "Autores uzstāšanos saraksts",
+    "groups": []
+  },
+  "diaryradio": {
+    "title": "Dzīvā folklora: Dienasgrāmatu fenomens pagātnē un mūsdienās",
+    "type": "Radio saruna",
+    "meta": "11.01.2021 · Toms Treibergs · Latvijas Radio 1, Kultūras Rondo",
+    "related": [
+      "memory",
+      "diaries"
+    ],
+    "url": "https://lr1.lsm.lv/lv/raksts/kulturas-rondo/dziva-folklora-dienasgramatu-fenomens-pagatne-un-musdienas.a138808",
+    "source": "Klausīties sarunu",
+    "groups": []
+  },
+  "retalsi": {
+    "title": "Dienasgrāmata vs. «X»: Kas paliks no 2025. gada – papīrs vai mākonis?",
+    "type": "Raksts",
+    "meta": "06.10.2025 · Paula Kārkluvalka · retalsi.lv",
+    "related": [
+      "memory"
+    ],
+    "url": "https://retalsi.lv/dienasgramata-vs-x-kas-paliks-no-2025-gada",
+    "source": "Lasīt rakstu",
+    "groups": []
+  },
+  "garamantasradio": {
+    "title": "Digitālais arhīvs garamantas.lv – grāmatās tādus materiālus izlasīt nevar",
+    "type": "Radio saruna",
+    "meta": "07.05.2018 · Latvijas Radio 1, Kultūras Rondo",
+    "related": [
+      "folklore",
+      "infrastructure",
+      "garamantas"
+    ],
+    "url": "https://lr1.lsm.lv/lv/raksts/kulturas-rondo/ieteikumi-ka-veiksmigak-darboties-digitalaja-arhiva-garamantas.l.a103281/",
+    "source": "Klausīties sarunu",
+    "groups": []
+  },
+  "citizenscience": {
+    "title": "Sabiedriskā zinātne Latvijā",
+    "type": "Radio saruna",
+    "meta": "06.03.2024 · Mariona Baltkalne, Paula Gulbinska · Latvijas Radio 1, Zināmais nezināmajā",
+    "related": [
+      "participation"
+    ],
+    "url": "https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/sabiedriska-zinatne-latvija-vairuma-petijumu-ir-svariga-cilveku-.a188639/",
+    "source": "Klausīties interviju",
+    "groups": []
+  },
+  "romareport": {
+    "title": "LU HZF pārstāvēta DARIAH-EU konferencē par sabiedrības līdzdalību",
+    "type": "Ziņa",
+    "meta": "29.05.2026 · Latvijas Universitātes Humanitāro zinātņu fakultāte",
+    "related": [
+      "participation",
+      "infrastructure",
+      "rome"
+    ],
+    "url": "https://www.hzf.lu.lv/par-mums/lu-mediji/zinas/zina/t/109714/",
+    "source": "Lasīt ziņu",
+    "groups": []
+  },
+  "researchgames": {
+    "title": "ResearchGames.eu",
+    "type": "Iniciatīva un digitālā platforma",
+    "meta": "Zinātnes komunikācija un sabiedrības iesaiste. Digitālā platforma, kur pētījumi un datu kopas pārtop interaktīvās spēlēs.",
+    "url": "https://researchgames.eu/",
+    "source": "ResearchGames.eu",
+    "related": [
+      "participation",
+      "infrastructure",
+      "folklore"
+    ],
+    "groups": [
+      [
+        "Saistītie resursi",
+        [
+          "dhc",
+          "garamantas"
+        ]
+      ]
+    ],
+    "is_new": false,
+    "primary_topic": "participation",
+    "direct_link": true
+  },
+  "dhc": {
+    "title": "LU Digitālo humanitāro zinātņu centrs",
+    "type": "Centrs",
+    "meta": "Centra vadītāja. Pētniecība, izglītība, digitālās infrastruktūras attīstība un starptautiskā sadarbība.",
+    "url": "https://dhc.lu.lv/",
+    "source": "dhc.lu.lv",
+    "related": [
+      "infrastructure",
+      "participation",
+      "folklore",
+      "memory"
+    ],
+    "groups": [
+      [
+        "Platformas un resursi",
+        [
+          "digitalhumanities",
+          "teikas",
+          "researchgames"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "linnaea",
+          "nams",
+          "digilate",
+          "aister"
+        ]
+      ]
+    ],
+    "direct_link": true
+  },
+  "teikas": {
+    "title": "Teikas",
+    "type": "Digitālais resurss",
+    "meta": "Latviešu tautas teiku meklēšanai, analīzei un kartēšanai. Pētera Šmita krājuma digitālā platforma. Resurss izstrādē.",
+    "url": "https://dhc.lu.lv/teikas/",
+    "source": "Atvērt Teikas",
+    "related": [
+      "folklore",
+      "infrastructure",
+      "language"
+    ],
+    "groups": [
+      [
+        "Datu kopas",
+        [
+          "teikas-corpus"
+        ]
+      ],
+      [
+        "Centrs",
+        [
+          "dhc"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "nams"
+        ]
+      ]
+    ]
+  },
+  "citizen-science": {
+    "title": "Sabiedriskā zinātne / citizen science",
+    "type": "Pieeja",
+    "related": [
+      "participation",
+      "memory",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Projekti un resursi",
+        [
+          "autobiography",
+          "aister",
+          "garamantas"
+        ]
+      ],
+      [
+        "Publikācijas",
+        [
+          "iesaistiespaper",
+          "beyond"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "citizenscience"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka"
+        ]
+      ]
+    ]
+  },
+  "language": {
+    "title": "Valodu tehnoloģijas",
+    "type": "Tēma",
+    "related": [
+      "folklore",
+      "participation",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "wordgame-strategies",
+          "boosting",
+          "vocabulary",
+          "date-detection"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "voices",
+          "vocabulary-talk",
+          "wordplay2024-talk"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "open",
+          "digilate",
+          "vti",
+          "vpp-language"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "lr-221163",
+          "media-202205",
+          "media-326203"
+        ]
+      ]
+    ]
+  },
+  "vti": {
+    "title": "VTI",
+    "type": "Projekts",
+    "meta": "2023–2026 · Vadošā izpildītāja un LFMI koordinatore",
+    "related": [
+      "language",
+      "infrastructure",
+      "participation"
+    ],
+    "groups": [
+      [
+        "Uzstāšanās",
+        [
+          "voices"
+        ]
+      ],
+      [
+        "Publikācijas",
+        [
+          "boosting"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka"
+        ]
+      ]
+    ],
+    "source": "Projekta mājaslapa",
+    "project": {
+      "id": "vti",
+      "short_name": "VTI",
+      "full_name": "Valodu tehnoloģiju iniciatīva",
+      "period": "2023–2026",
+      "dates": "",
+      "programme": "",
+      "funding": "Eiropas Savienība; Nacionālais attīstības plāns",
+      "role": "Vadošā izpildītāja un LFMI koordinatore",
+      "coordinator": "LU Datorikas fakultāte",
+      "partners": "",
+      "identifier": "",
+      "institution_role": "",
+      "url": "https://www.vti.lu.lv/",
+      "original_text": "2023–2026: Valodu tehnoloģiju iniciatīva (vadošais partneris, LU Datorikas fakultāte). EU, Nacionālais attīstības plāns. Vadošā izpildītāja un LFMI koordinatore.",
+      "sort_date": "2023–2026",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Valodu tehnoloģiju iniciatīva"
+        ],
+        [
+          "Periods",
+          "2023–2026"
+        ],
+        [
+          "Finansējums",
+          "Eiropas Savienība; Nacionālais attīstības plāns"
+        ],
+        [
+          "Koordinators",
+          "LU Datorikas fakultāte"
+        ],
+        [
+          "Mana loma",
+          "Vadošā izpildītāja un LFMI koordinatore"
+        ]
+      ]
+    },
+    "sort_date": "2023–2026",
+    "url": "https://www.vti.lu.lv/"
+  },
+  "vpp-language": {
+    "title": "LATE",
+    "type": "Projekts",
+    "meta": "2021–2024 · Vadošā pētniece",
+    "related": [
+      "language",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "vocabulary"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "vocabulary-talk"
+        ]
+      ]
+    ],
+    "source": "Projekta mājaslapa",
+    "project": {
+      "id": "vpp-language",
+      "short_name": "Mūsdienu latviešu valodas izpēte un valodas tehnoloģiju attīstība",
+      "full_name": "Mūsdienu latviešu valodas izpēte un valodas tehnoloģiju attīstība",
+      "period": "2021–2024",
+      "dates": "",
+      "programme": "Valsts pētījumu programma",
+      "funding": "Latvijas Zinātnes padome",
+      "role": "Vadošā pētniece",
+      "coordinator": "LU Matemātikas un informātikas institūts",
+      "partners": "",
+      "identifier": "",
+      "institution_role": "",
+      "url": "https://lulfmi.lv/en/research/projects/research-on-modern-latvian-language-and-development-of-language-technology-1",
+      "original_text": "2021–2024: Mūsdienu latviešu valodas izpēte un valodas tehnoloģiju attīstība. Valsts pētījumu programma. Vadošais partneris: LU Matemātikas un informātikas institūts. Finansējums: Latvijas Zinātnes padome. Vadošā pētniece.",
+      "sort_date": "2021–2024",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Mūsdienu latviešu valodas izpēte un valodas tehnoloģiju attīstība"
+        ],
+        [
+          "Periods",
+          "2021–2024"
+        ],
+        [
+          "Programma",
+          "Valsts pētījumu programma"
+        ],
+        [
+          "Finansējums",
+          "Latvijas Zinātnes padome"
+        ],
+        [
+          "Koordinators",
+          "LU Matemātikas un informātikas institūts"
+        ],
+        [
+          "Mana loma",
+          "Vadošā pētniece"
+        ]
+      ]
+    },
+    "sort_date": "2021–2024",
+    "url": "https://digitalhumanities.lv/projekti/vpp-late/"
+  },
+  "dheli": {
+    "title": "DHELI",
+    "type": "Projekts",
+    "meta": "2022–2025 · Projekta vadītāja",
+    "related": [
+      "infrastructure",
+      "folklore"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "humma"
+        ]
+      ],
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "garamantas"
+        ]
+      ],
+      [
+        "Saistītās platformas",
+        [
+          "digitalhumanities"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka"
+        ]
+      ]
+    ],
+    "url": "https://digitalhumanities.lv/lv/projekti/dheli/",
+    "source": "Projekta mājaslapa",
+    "project": {
+      "id": "dheli",
+      "short_name": "DHELI",
+      "full_name": "Atvērtas un FAIR principiem atbilstīgas digitālo humanitāro zinātņu ekosistēmas attīstība Latvijā",
+      "period": "2022–2025",
+      "dates": "15.12.2022.–14.12.2025.",
+      "programme": "",
+      "funding": "Latvijas Zinātnes padome",
+      "role": "Projekta vadītāja",
+      "coordinator": "",
+      "partners": "",
+      "identifier": "",
+      "institution_role": "",
+      "url": "https://www.digitalhumanities.lv/projekti/DHELI/",
+      "original_text": "2023-2025: Atvērtas un FAIR principiem atbilstīgas digitālo humanitāro zinātņu ekosistēmas attīstība Latvijā (DHELI). Latvijas Zinātnes padomes finansējums. Projekta vadītāja",
+      "sort_date": "15.12.2022",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Atvērtas un FAIR principiem atbilstīgas digitālo humanitāro zinātņu ekosistēmas attīstība Latvijā"
+        ],
+        [
+          "Periods",
+          "15.12.2022.–14.12.2025."
+        ],
+        [
+          "Finansējums",
+          "Latvijas Zinātnes padome"
+        ],
+        [
+          "Mana loma",
+          "Projekta vadītāja"
+        ]
+      ]
+    },
+    "sort_date": "15.12.2022"
+  },
+  "ewing": {
+    "title": "eWING",
+    "type": "Projekts",
+    "meta": "2018–2021 · Projekta vadītāja",
+    "related": [
+      "memory"
+    ],
+    "groups": [],
+    "source": "Projekta mājaslapa",
+    "project": {
+      "id": "ewing",
+      "short_name": "eWING",
+      "full_name": "Sevis dokumentēšana: inovatīvi modeļi autobiogrāfiskā naratīva interpretācijā un izpratnē",
+      "period": "2018–2021",
+      "dates": "",
+      "programme": "",
+      "funding": "Latvijas Zinātnes padome",
+      "role": "Projekta vadītāja",
+      "coordinator": "",
+      "partners": "",
+      "identifier": "",
+      "institution_role": "",
+      "url": "https://www.lulfmi.lv/petijumi/projekti/ewingproject",
+      "original_text": "2018–2021: Sevis dokumentēšana: inovatīvi modeļi autobiogrāfiskā naratīva interpretācijā un izpratnē (eWING). Finansējums: Latvijas Zinātnes padome. Projekta vadītāja",
+      "sort_date": "2018–2021",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Sevis dokumentēšana: inovatīvi modeļi autobiogrāfiskā naratīva interpretācijā un izpratnē"
+        ],
+        [
+          "Periods",
+          "2018–2021"
+        ],
+        [
+          "Finansējums",
+          "Latvijas Zinātnes padome"
+        ],
+        [
+          "Mana loma",
+          "Projekta vadītāja"
+        ]
+      ]
+    },
+    "sort_date": "2018–2021",
+    "url": "https://www.lulfmi.lv/petijumi/projekti/ewingproject"
+  },
+  "digarch": {
+    "title": "DigArch_ICH",
+    "type": "Projekts",
+    "meta": "2016–2017 · Projekta vadītāja",
+    "related": [
+      "folklore",
+      "infrastructure"
+    ],
+    "groups": [],
+    "source": "Projekta mājaslapa",
+    "project": {
+      "id": "digarch",
+      "short_name": "DigArch_ICH",
+      "full_name": "Connecting Digital Archives of Intangible Cultural Heritage",
+      "period": "2016–2017",
+      "dates": "",
+      "programme": "",
+      "funding": "EU Strategy for the Baltic Sea Region",
+      "role": "Projekta vadītāja",
+      "coordinator": "",
+      "partners": "Igaunija, Somija, Zviedrija, Norvēģija",
+      "identifier": "",
+      "institution_role": "",
+      "url": "https://lulfmi.lv/en/research/projects/connecting-digital-archives-of-intangible-cultural-heritage",
+      "original_text": "2016–2017: DigArch_ICH: Connecting Digital Archives of Intangible Cultural Heritage. Finansējums: EU Strategy for the Baltic Sea Region. Partneri no Igaunijas, Somijas, Zviedrijas un Norvēģijas. Projekta vadītāja",
+      "sort_date": "2016–2017",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Connecting Digital Archives of Intangible Cultural Heritage"
+        ],
+        [
+          "Periods",
+          "2016–2017"
+        ],
+        [
+          "Finansējums",
+          "EU Strategy for the Baltic Sea Region"
+        ],
+        [
+          "Mana loma",
+          "Projekta vadītāja"
+        ],
+        [
+          "Partneri",
+          "Igaunija, Somija, Zviedrija, Norvēģija"
+        ]
+      ]
+    },
+    "sort_date": "2016–2017",
+    "url": "https://lulfmi.lv/en/research/projects/connecting-digital-archives-of-intangible-cultural-heritage"
+  },
+  "engagement-project": {
+    "title": "Stiprinot zināšanu sabiedrību",
+    "type": "Projekts",
+    "meta": "2017–2019 · Projekta vadītāja",
+    "related": [
+      "participation",
+      "folklore",
+      "infrastructure"
+    ],
+    "groups": [],
+    "source": "Projekta mājaslapa",
+    "project": {
+      "id": "engagement-project",
+      "short_name": "Stiprinot zināšanu sabiedrību",
+      "full_name": "Stiprinot zināšanu sabiedrību: starpdisciplināras pieejas sabiedrības iesaistei digitālā kultūras mantojuma radīšanā",
+      "period": "2017–2019",
+      "dates": "",
+      "programme": "",
+      "funding": "Eiropas Reģionālās attīstības fonds",
+      "role": "Projekta vadītāja",
+      "coordinator": "",
+      "partners": "",
+      "identifier": "",
+      "institution_role": "",
+      "url": "https://lulfmi.lv/petijumi/projekti/stiprinot-zinasanu-sabiedribu-starpdisciplinaras-pieejas-sabiedribas-iesaistei-digitala-kulturas-mantojuma-radisana",
+      "original_text": "2017–2019: Stiprinot zināšanu sabiedrību: starpdisciplināras pieejas sabiedrības iesaistei digitālā kultūras mantojuma radīšanā. Finansējums: Eiropas Reģionālās attīstības fonds. Projekta vadītāja",
+      "sort_date": "2017–2019",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Stiprinot zināšanu sabiedrību: starpdisciplināras pieejas sabiedrības iesaistei digitālā kultūras mantojuma radīšanā"
+        ],
+        [
+          "Periods",
+          "2017–2019"
+        ],
+        [
+          "Finansējums",
+          "Eiropas Reģionālās attīstības fonds"
+        ],
+        [
+          "Mana loma",
+          "Projekta vadītāja"
+        ]
+      ]
+    },
+    "sort_date": "2017–2019",
+    "url": "https://lulfmi.lv/petijumi/projekti/stiprinot-zinasanu-sabiedribu-starpdisciplinaras-pieejas-sabiedribas-iesaistei-digitala-kulturas-mantojuma-radisana"
+  },
+  "vocabulary": {
+    "title": "How masterly are people at playing with their vocabulary?",
+    "type": "Publikācija",
+    "meta": "Rikters, M., & Reinsone, S. (2022). How masterly are people at playing with their vocabulary? Baltic Journal of Modern Computing, 10(3), 382–391. https://doi.org/10.22364/bjmc.2022.10.3.11",
+    "related": [
+      "language",
+      "participation"
+    ],
+    "groups": [
+      [
+        "Saistītās publikācijas",
+        [
+          "wordgame-strategies"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "vocabulary-talk"
+        ]
+      ]
+    ],
+    "url": "https://doi.org/10.22364/bjmc.2022.10.3.11",
+    "source": "DOI",
+    "sort_date": "2022",
+    "bibliography": {
+      "authors_year": "Rikters, M., & Reinsone, S. (2022).",
+      "descriptor": null,
+      "tail_html": "<em>Baltic Journal of Modern Computing, 10</em>(3), 382–391.",
+      "doi": "10.22364/bjmc.2022.10.3.11",
+      "reference_html": "Rikters, M., &amp; Reinsone, S. (2022). How masterly are people at playing with their vocabulary? <em>Baltic Journal of Modern Computing, 10</em>(3), 382–391. https://doi.org/10.22364/bjmc.2022.10.3.11"
+    }
+  },
+  "transcription": {
+    "title": "Manuscript transcription as a tool for deep reading and teaching of folklore",
+    "type": "Publikācija",
+    "meta": "Pērle-Sīle, G., & Reinsone, S. (2022). Manuscript transcription as a tool for deep reading and teaching of folklore. In K. Berglund, M. La Mela, & I. Zwart (Eds.), Proceedings of the 6th Digital Humanities in the Nordic and Baltic Countries Conference (Vol. 3232, pp. 390–400). CEUR-WS. http://ceur-ws.org/Vol-3232/paper38.pdf",
+    "related": [
+      "folklore",
+      "participation"
+    ],
+    "groups": [],
+    "url": "http://ceur-ws.org/Vol-3232/paper38.pdf",
+    "source": "Lasīt publikāciju",
+    "sort_date": "2022",
+    "bibliography": {
+      "authors_year": "Pērle-Sīle, G., & Reinsone, S. (2022).",
+      "descriptor": null,
+      "tail_html": "In K. Berglund, M. La Mela, & I. Zwart (Eds.), <em>Proceedings of the 6th Digital Humanities in the Nordic and Baltic Countries Conference</em> (Vol. 3232, pp. 390–400). CEUR-WS.",
+      "doi": "",
+      "reference_html": "Pērle-Sīle, G., &amp; Reinsone, S. (2022). Manuscript transcription as a tool for deep reading and teaching of folklore. In K. Berglund, M. La Mela, & I. Zwart (Eds.), <em>Proceedings of the 6th Digital Humanities in the Nordic and Baltic Countries Conference</em> (Vol. 3232, pp. 390–400). CEUR-WS. http://ceur-ws.org/Vol-3232/paper38.pdf"
+    }
+  },
+  "plants": {
+    "title": "Medicinal plants and their uses recorded in the Archives of Latvian Folklore from the 19th century",
+    "type": "Publikācija",
+    "meta": "Sīle, I., Romāne, E., Reinsone, S., Mauriņa, B., Tirzīte, D., & Dambrova, M. (2020). Medicinal plants and their uses recorded in the Archives of Latvian Folklore from the 19th century. Journal of Ethnopharmacology, 249, Article 112378. https://doi.org/10.1016/j.jep.2019.112378",
+    "related": [
+      "folklore"
+    ],
+    "groups": [],
+    "url": "https://doi.org/10.1016/j.jep.2019.112378",
+    "source": "DOI",
+    "sort_date": "2020",
+    "bibliography": {
+      "authors_year": "Sīle, I., Romāne, E., Reinsone, S., Mauriņa, B., Tirzīte, D., & Dambrova, M. (2020).",
+      "descriptor": null,
+      "tail_html": "<em>Journal of Ethnopharmacology, 249</em>, Article 112378.",
+      "doi": "10.1016/j.jep.2019.112378",
+      "reference_html": "Sīle, I., Romāne, E., Reinsone, S., Mauriņa, B., Tirzīte, D., &amp; Dambrova, M. (2020). Medicinal plants and their uses recorded in the Archives of Latvian Folklore from the 19th century. <em>Journal of Ethnopharmacology, 249</em>, Article 112378. https://doi.org/10.1016/j.jep.2019.112378"
+    }
+  },
+  "voices": {
+    "title": "Mobilizing Voices: Citizen-Driven Enhancement of Speech Data Accessibility and Language Technology Advancement",
+    "type": "Konferences referāts",
+    "meta": "14.06.2024. Sanita Reinsone, Normunds Grūzītis, Ilze Auziņa, Baiba Saulīte. Mobilizing Voices: Citizen-Driven Enhancement of Speech Data Accessibility and Language Technology Advancement. The 29th Biennial AABS Conference, June 13–16, 2024, Yale University and the University of New Haven",
+    "related": [
+      "language",
+      "participation"
+    ],
+    "groups": [],
+    "url": "https://aabs-balticstudies.org/aabs-2024/",
+    "source": "Atvērt avotu"
+  },
+  "vocabulary-talk": {
+    "title": "How Masterly Are People at Playing with Their Vocabulary?",
+    "type": "Priekšlasījums",
+    "meta": "07.10.2022. · Matīss Rikters, Sanita Reinsone · Baltic HLT 2022: Human Language Technologies – the Baltic Perspective · Rīga, Latvija",
+    "related": [
+      "language",
+      "participation"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "vocabulary"
+        ]
+      ]
+    ],
+    "url": "https://hlt2022.tilde.eu/programme",
+    "source": "Konferences programma",
+    "sort_date": "07.10.2022"
+  },
+  "archive-dynamics": {
+    "title": "Digital Dynamics in Folklore Archives: Charting Community Engagement Patterns",
+    "type": "Keynote referāts",
+    "meta": "31.10.2024. Digital Dynamics in Folklore Archives: Charting Community Engagement Patterns. Konference \"Archives of Traditional Culture 100+10\". Rīga.",
+    "related": [
+      "folklore",
+      "participation"
+    ],
+    "groups": [],
+    "url": "https://lulfmi.lv/files/2024/100_10_Conference_Programme.pdf",
+    "source": "Atvērt avotu"
+  },
+  "dariah2025": {
+    "title": "From Folklore Collections to Digital Research Infrastructures: Expanding Access, Engagement, and Analysis",
+    "type": "Prezentācija konferencē",
+    "meta": "17–20.06.2025. Reinsone, S., Esborg, L., Gunnell, T., Kallio, K., Kverndokk, K., Laime, S., Lamb, W., Olsen, A. S., Skott, F., Skujytė-Razmienė, A., Tangherlini, T., Tolgensbakk, I., Väina, M., Vēveris, V. From Folklore Collections to Digital Research Infrastructures: Expanding Access, Engagement, and Analysis. DARIAH Annual Event 2025 \"The Past\", Getingene, Vācija",
+    "related": [
+      "folklore",
+      "infrastructure",
+      "participation"
+    ],
+    "groups": [],
+    "url": "publicitate.html",
+    "source": "Sākotnējais saraksts"
+  },
+  "teikas-corpus": {
+    "title": "Latvian Folk Legend Corpus of LPT (in Latvian)",
+    "type": "Datu kopa",
+    "meta": "2025 · Sanita Reinsone, Simona Kaščejeva, Andrejs Spektors, Guntis Pakalns · CLARIN-LV",
+    "url": "https://dhc.lu.lv/teikas/par-projektu/",
+    "source": "Datu kopas apraksts un saite",
+    "related": [
+      "folklore",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Digitālie resursi",
+        [
+          "teikas"
+        ]
+      ]
+    ]
+  },
+  "scienceforukraine": {
+    "title": "#ScienceForUkraine🇺🇦",
+    "type": "Iniciatīva",
+    "meta": "2022. gada 24. februārī pasaule mainījās. Iniciatīva #ScienceForUkraine es radīju divas dienas pēc tam, kad Krievija uzsāka pilna apmēra iebrukumu Ukrainā, izveidojot kontu Twitter platformā ar mērķi apkopot Ukrainas zinātniekiem un studentiem pieejamo starptautisko atbalstu. Nedēļas laikā šī iniciatīva pārtapa par starptautisku brīvprātīgo organizāciju, kurā aktīvi iesaistījās vairāk nekā 100 cilvēki no 30 valstīm. #ScienceForUkraine simbolizē kolektīvo spēku, empātiju un vēlmi palīdzēt. Kopš 2023. gada 2. augusta #ScienceForUkraine ir biedrība, kas dibināta Latvijā. Man ir gods būt par vienu no šīs organizācijas vadītājām.",
+    "url": "https://scienceforukraine.eu/",
+    "source": "scienceforukraine.eu",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Ziņojumi",
+        [
+          "scienceforukraine-report"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "lsm-450023",
+          "nature-sfu-2024",
+          "nature-sfu-2023",
+          "science-sfu-2022",
+          "nature-sfu-2022"
+        ]
+      ],
+      [
+        "Publikācijas",
+        [
+          "publication-62",
+          "publication-66",
+          "publication-70"
+        ]
+      ]
+    ],
+    "feature": {
+      "title": "The grassroots organizations continuing the fight for Ukrainian science",
+      "label": "Nature · Career Feature",
+      "meta": "11.09.2024 · Oscar Allan",
+      "image": "assets/portrait-inga-pizane.png",
+      "credit": "Foto: Inga Pizāne",
+      "url": "https://www.nature.com/articles/d41586-024-02957-7"
+    },
+    "external_icon": true
+  },
+  "scienceforukraine-report": {
+    "title": "#ScienceForUkraine pirmo trīs mēnešu darbības ziņojums",
+    "type": "Ziņojums",
+    "url": "https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4139263",
+    "source": "Lasīt ziņojumu",
+    "related": [
+      "participation"
+    ],
+    "groups": [],
+    "sort_date": "2022"
+  },
+  "public-engagement": {
+    "title": "Sabiedrības iesaiste un sabiedriskā zinātne",
+    "type": "Darbības virziens",
+    "related": [
+      "participation",
+      "memory",
+      "language",
+      "folklore"
+    ],
+    "groups": [
+      [
+        "Pieejas",
+        [
+          "citizen-science"
+        ]
+      ],
+      [
+        "Projekti un resursi",
+        [
+          "autobiography",
+          "aister",
+          "vti",
+          "garamantas"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka",
+          "pandemic-diaries-campaign",
+          "autobiography-campaign",
+          "iesaisties-campaigns",
+          "simtgades-burtnieki"
+        ]
+      ],
+      [
+        "Lomas",
+        [
+          "citizen-science-ambassador"
+        ]
+      ]
+    ]
+  },
+  "science-communication": {
+    "title": "Zinātnes komunikācija",
+    "type": "Darbības virziens",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Lomas",
+        [
+          "lu-science-ambassador"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "rome",
+          "voices"
+        ]
+      ],
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "researchgames"
+        ]
+      ]
+    ]
+  },
+  "science-activism": {
+    "title": "Zinātnes aktīvisms un solidaritāte",
+    "type": "Darbības virziens",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Iniciatīvas",
+        [
+          "scienceforukraine"
+        ]
+      ]
+    ]
+  },
+  "dh-infrastructure": {
+    "title": "Infrastruktūra",
+    "type": "Darbības virziens",
+    "related": [
+      "infrastructure",
+      "folklore",
+      "language",
+      "memory",
+      "participation"
+    ],
+    "groups": [
+      [
+        "Pētniecības infrastruktūras",
+        [
+          "dariah",
+          "clarin-lv"
+        ]
+      ],
+      [
+        "Publikācijas",
+        [
+          "humma",
+          "garamantaspaper"
+        ]
+      ],
+      [
+        "Datu kopas",
+        [
+          "inventory",
+          "teikas-corpus"
+        ]
+      ],
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "digitalhumanities",
+          "teikas",
+          "researchgames",
+          "autobiography",
+          "humma-platform",
+          "garamantas",
+          "iesaisties",
+          "pasakas"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "rome",
+          "clarin",
+          "isfnr",
+          "dariah2025"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "digilate",
+          "dheli",
+          "digarch",
+          "aister",
+          "vti",
+          "vpp-language",
+          "digital-resources-project",
+          "data4ua"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "romareport"
+        ]
+      ],
+      [
+        "Centrs",
+        [
+          "dhc"
+        ]
+      ],
+      [
+        "Saistītās tēmas",
+        [
+          "risk"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka"
+        ]
+      ]
+    ]
+  },
+  "citizen-science-ambassador": {
+    "title": "ECSA sabiedriskās zinātnes vēstniece Latvijā",
+    "type": "Loma",
+    "meta": "Agrākā loma · Citizen Science Ambassador for Latvia · European Citizen Science (ECS)",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Darbības virziens",
+        [
+          "public-engagement"
+        ]
+      ]
+    ],
+    "url": "https://citizenscience.eu/ecs_project/ambassadors",
+    "source": "ECS sabiedriskās zinātnes vēstnieku tīkls"
+  },
+  "lu-science-ambassador": {
+    "title": "LU zinātnes vēstniece",
+    "type": "Loma",
+    "meta": "Pašreizējā loma · Aurora Nexus: savienot cilvēkus, zinātni un mākslu",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Darbības virziens",
+        [
+          "science-communication"
+        ]
+      ]
+    ],
+    "url": "https://www.lu.lv/aurora-nexus/",
+    "source": "Aurora Nexus · LU zinātnes vēstnieku programma"
+  },
+  "digitalhumanities": {
+    "title": "digitalhumanities.lv",
+    "type": "Sadarbības platforma",
+    "url": "https://digitalhumanities.lv/",
+    "source": "Atvērt digitalhumanities.lv",
+    "meta": "Digitālās humanitārās zinātnes Latvijā.",
+    "related": [
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Pētniecības infrastruktūras",
+        [
+          "dariah",
+          "clarin-lv"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "digilate",
+          "dheli",
+          "digital-resources-project"
+        ]
+      ]
+    ]
+  },
+  "dariah": {
+    "title": "DARIAH-EU",
+    "type": "Pētniecības infrastruktūra",
+    "url": "https://www.dariah.eu/",
+    "source": "Atvērt DARIAH-EU",
+    "meta": "Digitālā pētniecības infrastruktūra mākslas un humanitārajām zinātnēm.",
+    "related": [
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Uzstāšanās",
+        [
+          "rome",
+          "dariah2025",
+          "clarin"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "romareport"
+        ]
+      ]
+    ]
+  },
+  "clarin-lv": {
+    "title": "CLARIN Latvija",
+    "type": "Pētniecības infrastruktūra",
+    "url": "https://clarin.lv/lv/",
+    "source": "Atvērt CLARIN Latvija",
+    "meta": "Valodas resursu un tehnoloģiju infrastruktūra.",
+    "related": [
+      "infrastructure",
+      "language"
+    ],
+    "groups": [
+      [
+        "Datu kopas",
+        [
+          "teikas-corpus",
+          "autobiography-corpus",
+          "pandemic-diaries-corpus"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "clarin"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "digilate",
+          "vti",
+          "vpp-language"
+        ]
+      ]
+    ]
+  },
+  "balsutalka": {
+    "title": "Balsu talka",
+    "type": "Sabiedriskās zinātnes iniciatīva",
+    "url": "https://balsutalka.lv/",
+    "source": "Balsu talkas vietne",
+    "meta": "Sabiedrības iesaiste runas datu vākšanā un pārbaudē latviešu valodas tehnoloģijām.",
+    "related": [
+      "language",
+      "participation",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "boosting"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "voices"
+        ]
+      ],
+      [
+        "Projekti",
+        [
+          "digilate",
+          "vti",
+          "vpp-language",
+          "dheli"
+        ]
+      ]
+    ]
+  },
+  "iesaisties": {
+    "title": "iesaisties.lv",
+    "type": "Digitālā platforma",
+    "url": "https://iesaisties.lv/",
+    "source": "Atvērt iesaisties.lv",
+    "meta": "Sabiedriskās zinātnes iniciatīvas humanitārajās un mākslas zinātnēs.",
+    "related": [
+      "participation",
+      "folklore",
+      "memory",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "iesaistiespaper"
+        ]
+      ],
+      [
+        "Saistītie resursi",
+        [
+          "autobiography",
+          "garamantas"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka",
+          "autobiography-campaign",
+          "pandemic-diaries-campaign",
+          "simtgades-burtnieki"
+        ]
+      ]
+    ],
+    "past_label": "Agrākā darbība šajā resursā"
+  },
+  "humma-platform": {
+    "title": "HUMMA.lv",
+    "type": "Digitālā platforma",
+    "url": "https://humma.lv/",
+    "source": "Atvērt HUMMA.lv",
+    "meta": "Sadarbības platforma humanitārajām un mākslas zinātnēm Latvijā.",
+    "related": [
+      "infrastructure",
+      "participation"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "humma"
+        ]
+      ],
+      [
+        "Saistītie resursi",
+        [
+          "iesaisties"
+        ]
+      ]
+    ],
+    "past_label": "Agrākā darbība šajā resursā"
+  },
+  "pasakas": {
+    "title": "pasakas.lfk.lv",
+    "type": "Digitālais resurss",
+    "url": "https://pasakas.lfk.lv/",
+    "source": "Atvērt pasakas.lfk.lv",
+    "meta": "",
+    "related": [
+      "folklore",
+      "infrastructure"
+    ],
+    "groups": [],
+    "past_label": "Agrākā darbība šajā resursā"
+  },
+  "digital-resources-project": {
+    "title": "Digitālie resursi humanitārajām zinātnēm",
+    "type": "Projekts",
+    "source": "Atvērt Digitālie resursi humanitārajām zinātnēm: integrācijas un attīstība",
+    "meta": "2020–2022 · Projekta vadītāja",
+    "related": [
+      "infrastructure"
+    ],
+    "groups": [],
+    "project": {
+      "id": "digital-resources-project",
+      "short_name": "Digitālie resursi humanitārajām zinātnēm",
+      "full_name": "Digitālie resursi humanitārajām zinātnēm: integrācijas un attīstība",
+      "period": "2020–2022",
+      "dates": "",
+      "programme": "Valsts pētījumu programma",
+      "funding": "Latvijas Zinātnes padome",
+      "role": "Projekta vadītāja",
+      "coordinator": "",
+      "partners": "",
+      "identifier": "",
+      "institution_role": "",
+      "url": "",
+      "original_text": "2020–2022: Digitālie resursi humanitārajām zinātnēm: integrācijas un attīstība. Valsts pētījumu programma. Finansējums: Latvijas Zinātnes padome. Projekta vadītāja",
+      "sort_date": "2020–2022",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Digitālie resursi humanitārajām zinātnēm: integrācijas un attīstība"
+        ],
+        [
+          "Periods",
+          "2020–2022"
+        ],
+        [
+          "Programma",
+          "Valsts pētījumu programma"
+        ],
+        [
+          "Finansējums",
+          "Latvijas Zinātnes padome"
+        ],
+        [
+          "Mana loma",
+          "Projekta vadītāja"
+        ]
+      ]
+    },
+    "sort_date": "2020–2022",
+    "url": "https://digitalhumanities.lv/lv/projekti/dh-vpp/"
+  },
+  "data4ua": {
+    "title": "Data4UA",
+    "type": "Projekts",
+    "url": "https://www.data4ua.eu/",
+    "source": "Projekta mājaslapa",
+    "meta": "2023–2025 · Projekta vadītāja līdz 2024. gada maijam",
+    "related": [
+      "infrastructure",
+      "memory"
+    ],
+    "groups": [],
+    "project": {
+      "id": "data4ua",
+      "short_name": "Data4UA",
+      "full_name": "Capacity Building for Data-Driven Cultural Heritage Management in Ukraine",
+      "period": "2023–2025",
+      "dates": "",
+      "programme": "Erasmus+ KA2",
+      "funding": "",
+      "role": "Projekta vadītāja līdz 2024. gada maijam",
+      "coordinator": "",
+      "partners": "Ukraina, Grieķija, Norvēģija, Slovēnija",
+      "identifier": "",
+      "institution_role": "",
+      "url": "https://www.data4ua.eu/",
+      "original_text": "2023–2025: Capacity Building for Data-Driven Cultural Heritage Management in Ukraine (Data4UA). Finansējums: Erasmus+ K2. Partneri no Ukrainas, Grieķijas, Norvēģijas un Slovēnijas. Projekta vadītāja (līdz 2024.05)",
+      "sort_date": "2023–2025",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Capacity Building for Data-Driven Cultural Heritage Management in Ukraine"
+        ],
+        [
+          "Periods",
+          "2023–2025"
+        ],
+        [
+          "Programma",
+          "Erasmus+ KA2"
+        ],
+        [
+          "Mana loma",
+          "Projekta vadītāja līdz 2024. gada maijam"
+        ],
+        [
+          "Partneri",
+          "Ukraina, Grieķija, Norvēģija, Slovēnija"
+        ]
+      ]
+    },
+    "sort_date": "2023–2025"
+  },
+  "isfnr-talk": {
+    "title": "Restless Spirits, Restless Places: Landscape Agency in Smiltene’s Demonological Heritage",
+    "type": "Priekšlasījums",
+    "meta": "14.06.2026 · Sanita Reinsone · ISFNR2026 · Reikjavīka, Islande",
+    "url": "https://nomadit.co.uk/conference/isfnr2026/paper/92419",
+    "source": "Referāts konferences programmā",
+    "related": [
+      "folklore"
+    ],
+    "groups": [
+      [
+        "Tajā pašā konferencē",
+        [
+          "isfnr"
+        ]
+      ]
+    ]
+  },
+  "boosting": {
+    "title": "BalsuTalka.lv – Boosting the Common Voice corpus for low-resource languages",
+    "type": "Publikācija",
+    "meta": "Darģis, R., Znotiņš, A., Auziņa, I., Saulīte, B., Reinsone, S., Dejus, R., Klavinska, A., & Grūzītis, N. (2024). BalsuTalka.lv – Boosting the Common Voice corpus for low-resource languages. In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024) (pp. 2080–2085). ELRA and ICCL. https://aclanthology.org/2024.lrec-main.187",
+    "url": "https://aclanthology.org/2024.lrec-main.187",
+    "source": "Lasīt publikāciju",
+    "related": [
+      "language",
+      "participation",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka"
+        ]
+      ]
+    ],
+    "sort_date": "2024",
+    "bibliography": {
+      "authors_year": "Darģis, R., Znotiņš, A., Auziņa, I., Saulīte, B., Reinsone, S., Dejus, R., Klavinska, A., & Grūzītis, N. (2024).",
+      "descriptor": null,
+      "tail_html": "In <em>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</em> (pp. 2080–2085). ELRA and ICCL.",
+      "doi": "",
+      "reference_html": "Darģis, R., Znotiņš, A., Auziņa, I., Saulīte, B., Reinsone, S., Dejus, R., Klavinska, A., &amp; Grūzītis, N. (2024). BalsuTalka.lv – Boosting the Common Voice corpus for low-resource languages. In <em>Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024)</em> (pp. 2080–2085). ELRA and ICCL. https://aclanthology.org/2024.lrec-main.187"
+    }
+  },
+  "wordgame-strategies": {
+    "title": "Strategic insights in human and large language model tactics at word guessing games",
+    "type": "Publikācija",
+    "meta": "Rikters, M., & Reinsone, S. (2024). Strategic insights in human and large language model tactics at word guessing games. 4th Wordplay: When Language Meets Games @ ACL 2024. arXiv. https://doi.org/10.48550/arXiv.2409.11112",
+    "url": "https://doi.org/10.48550/arXiv.2409.11112",
+    "source": "DOI",
+    "related": [
+      "language"
+    ],
+    "groups": [
+      [
+        "Saistītās publikācijas",
+        [
+          "vocabulary"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "wordplay2024-talk"
+        ]
+      ]
+    ],
+    "sort_date": "2024",
+    "bibliography": {
+      "authors_year": "Rikters, M., & Reinsone, S. (2024).",
+      "descriptor": null,
+      "tail_html": "<em>4th Wordplay: When Language Meets Games @ ACL 2024</em>. arXiv.",
+      "doi": "10.48550/arXiv.2409.11112",
+      "reference_html": "Rikters, M., &amp; Reinsone, S. (2024). Strategic insights in human and large language model tactics at word guessing games. <em>4th Wordplay: When Language Meets Games @ ACL 2024</em>. arXiv. https://doi.org/10.48550/arXiv.2409.11112"
+    }
+  },
+  "date-detection": {
+    "title": "Automatic detection of dates in the corpus of diaries",
+    "type": "Publikācija",
+    "meta": "Matulis, H., Reinsone, S., & Ļaksa-Timinska, I. (2022). Automatic detection of dates in the corpus of diaries. In K. Berglund, M. La Mela, & I. Zwart (Eds.), Proceedings of the 6th Digital Humanities in the Nordic and Baltic Countries Conference (Vol. 3232, pp. 334–342). CEUR-WS. http://ceur-ws.org/Vol-3232/paper32.pdf",
+    "url": "http://ceur-ws.org/Vol-3232/paper32.pdf",
+    "source": "Lasīt publikāciju",
+    "related": [
+      "language",
+      "memory",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Krājumi",
+        [
+          "autobiography"
+        ]
+      ]
+    ],
+    "sort_date": "2022",
+    "bibliography": {
+      "authors_year": "Matulis, H., Reinsone, S., & Ļaksa-Timinska, I. (2022).",
+      "descriptor": null,
+      "tail_html": "In K. Berglund, M. La Mela, & I. Zwart (Eds.), <em>Proceedings of the 6th Digital Humanities in the Nordic and Baltic Countries Conference</em> (Vol. 3232, pp. 334–342). CEUR-WS.",
+      "doi": "",
+      "reference_html": "Matulis, H., Reinsone, S., &amp; Ļaksa-Timinska, I. (2022). Automatic detection of dates in the corpus of diaries. In K. Berglund, M. La Mela, & I. Zwart (Eds.), <em>Proceedings of the 6th Digital Humanities in the Nordic and Baltic Countries Conference</em> (Vol. 3232, pp. 334–342). CEUR-WS. http://ceur-ws.org/Vol-3232/paper32.pdf"
+    }
+  },
+  "digilate": {
+    "title": "DigiLATE",
+    "type": "Projekts",
+    "meta": "2025–2028",
+    "sort_date": "22.12.2025",
+    "url": "https://digitalhumanities.lv/lv/projekti/digilate/",
+    "source": "Projekta mājaslapa",
+    "related": [
+      "language",
+      "infrastructure"
+    ],
+    "groups": [
+      [
+        "Pētniecības infrastruktūras",
+        [
+          "clarin-lv",
+          "dariah"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "balsutalka"
+        ]
+      ]
+    ],
+    "project": {
+      "id": "digilate",
+      "short_name": "DigiLATE",
+      "full_name": "Digitālie resursi un mākslīgā intelekta tehnoloģijas latviešu valodas ilgtspējai",
+      "period": "2025–2028",
+      "dates": "",
+      "programme": "Valsts pētījumu programma",
+      "funding": "",
+      "role": "",
+      "coordinator": "",
+      "partners": "",
+      "identifier": "VPP-IZM-Letonika-2025/1-0004",
+      "institution_role": "",
+      "url": "https://digitalhumanities.lv/lv/projekti/digilate/",
+      "original_text": "2025–2028: DigiLATE – Digitālie resursi un mākslīgā intelekta tehnoloģijas latviešu valodas ilgtspējai.",
+      "sort_date": "22.12.2025",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Digitālie resursi un mākslīgā intelekta tehnoloģijas latviešu valodas ilgtspējai"
+        ],
+        [
+          "Periods",
+          "2025–2028"
+        ],
+        [
+          "Programma",
+          "Valsts pētījumu programma"
+        ],
+        [
+          "Projekta numurs",
+          "VPP-IZM-Letonika-2025/1-0004"
+        ]
+      ]
+    }
+  },
+  "nams": {
+    "title": "NAMS",
+    "type": "Projekts",
+    "meta": "2025–2028",
+    "sort_date": "22.12.2025",
+    "url": "https://lulfmi.lv/petijumi/projekti/nams-latviska-identitate-un-zinasanu-strategijas-ka-sabiedribas-noturibas-resurss",
+    "source": "Projekta mājaslapa",
+    "related": [
+      "folklore"
+    ],
+    "groups": [
+      [
+        "Saistītie resursi",
+        [
+          "teikas"
+        ]
+      ]
+    ],
+    "project": {
+      "id": "nams",
+      "short_name": "NAMS",
+      "full_name": "Latviskā identitāte un zināšanu stratēģijas kā sabiedrības noturības resurss",
+      "period": "2025–2028",
+      "dates": "",
+      "programme": "Valsts pētījumu programma",
+      "funding": "",
+      "role": "",
+      "coordinator": "",
+      "partners": "",
+      "identifier": "VPP-IZM-Letonika-2025/1-0008",
+      "institution_role": "",
+      "url": "https://lulfmi.lv/petijumi/projekti/nams-latviska-identitate-un-zinasanu-strategijas-ka-sabiedribas-noturibas-resurss",
+      "original_text": "2025–2028: NAMS – Latviskā identitāte un zināšanu stratēģijas kā sabiedrības noturības resurss.",
+      "sort_date": "22.12.2025",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Latviskā identitāte un zināšanu stratēģijas kā sabiedrības noturības resurss"
+        ],
+        [
+          "Periods",
+          "2025–2028"
+        ],
+        [
+          "Programma",
+          "Valsts pētījumu programma"
+        ],
+        [
+          "Projekta numurs",
+          "VPP-IZM-Letonika-2025/1-0008"
+        ]
+      ]
+    }
+  },
+  "lsm-608701": {
+    "title": "Atmiņu glabātāja ar rakstnieces talantu. Intervija ar pētnieci un Baltvilka balvas laureāti Sanitu Reinsoni",
+    "type": "Intervija",
+    "meta": "03.08.2025 · Aija Bremšmite · LSM.lv",
+    "url": "https://www.lsm.lv/raksts/kultura/literatura/03.08.2025-atminu-glabataja-ar-rakstnieces-talantu-intervija-ar-petnieci-un-baltvilka-balvas-laureati-sanitu-reinsoni.a608701/",
+    "source": "LSM.lv",
+    "related": [
+      "memory",
+      "folklore",
+      "infrastructure"
+    ],
+    "groups": []
+  },
+  "lsm-450023": {
+    "title": "Stāsts par stāstiem. Saruna ar folkloras pētnieci Sanitu Reinsoni",
+    "type": "Intervija",
+    "meta": "30.03.2022 · Ieva Siliņa · LSM.lv",
+    "url": "https://www.lsm.lv/raksts/kultura/literatura/stasts-par-stastiem-saruna-ar-folkloras-petnieci-sanitu-reinsoni.a450023/",
+    "source": "LSM.lv",
+    "related": [
+      "memory",
+      "folklore",
+      "infrastructure",
+      "participation"
+    ],
+    "groups": [
+      [
+        "Iniciatīvas",
+        [
+          "scienceforukraine"
+        ]
+      ],
+      [
+        "Krājumi",
+        [
+          "autobiography"
+        ]
+      ]
+    ]
+  },
+  "lsm-387272": {
+    "title": "No pavasara poēmas līdz rudens skaudrumam: folkloras krātuve turpina krāt «pandēmijas dienasgrāmatas»",
+    "type": "Raksts",
+    "meta": "31.12.2020 · Māra Rozenberga · LSM.lv",
+    "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/no-pavasara-poemas-lidz-rudens-skaudrumam-folkloras-kratuve-turpina-krat-pandemijas-dienasgramatas.a387272/",
+    "source": "LSM.lv",
+    "related": [
+      "memory",
+      "participation"
+    ],
+    "groups": []
+  },
+  "lr-137085": {
+    "title": "Jauna dziesma grupai “Rāva”, turpinās pandēmijas dienasgrāmatas rakstīšana",
+    "type": "Radio saruna",
+    "meta": "24.11.2020 · Anete Stuce · Latvijas Radio 3 · Etnovēstis",
+    "url": "https://replay.lsm.lv/lv/klausies/ieraksts/lr/137085/jauna-dziesma-grupai-rava-turpinas-pandemijas-dienasgramatas-rakstisana",
+    "source": "Latvijas Radio 3 · Etnovēstis",
+    "related": [
+      "memory",
+      "participation"
+    ],
+    "groups": []
+  },
+  "lsm-357203": {
+    "title": "Covid-19 pieredze kā nozīmīgs dokumentārais mantojums – aicina veidot laika liecības",
+    "type": "Raksts",
+    "meta": "24.04.2020 · Baiba Kušķe · LSM.lv",
+    "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/covid-19-pieredze-ka-nozimigs-dokumentarais-mantojums--aicina-veidot-laika-liecibas.a357203/",
+    "source": "LSM.lv",
+    "related": [
+      "memory",
+      "participation"
+    ],
+    "groups": []
+  },
+  "lsm-296573": {
+    "title": "Aicina uz lekciju «Dzīves pierakstīšanas tradīcijas»",
+    "type": "Pasākuma pieteikums",
+    "meta": "19.10.2018 · LSM.lv Kultūras redakcija · LSM.lv",
+    "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/aicina-uz-lekciju-dzives-pierakstisanas-tradicijas.a296573/",
+    "source": "LSM.lv",
+    "related": [
+      "memory"
+    ],
+    "groups": []
+  },
+  "lr-93538": {
+    "title": "Au-ru-ru-ru. Au-ru-ru-ru. Kā tikt mājās? Apmaldīšanās stāsti latviešu folklorā",
+    "type": "Radio saruna",
+    "meta": "15.10.2017 · Iveta Medene · Latvijas Radio 1 · Laika Ritu Raksti",
+    "url": "https://replay.lsm.lv/lv/klausies/ieraksts/lr/93538/au-ru-ru-ru-au-ru-ru-ru-ka-tikt-majas-apmaldisanas-stasti-latviesu-folklora",
+    "source": "Latvijas Radio 1 · Laika Ritu Raksti",
+    "related": [
+      "folklore"
+    ],
+    "groups": []
+  },
+  "lr-93362": {
+    "title": "Sanitas Reinsones “Apmaldīšanās poētika teikās, stāstos un sarunās” un “Garā pupa”",
+    "type": "Radio saruna",
+    "meta": "11.10.2017 · Latvijas Radio 3 · Grāmatu stāsti",
+    "url": "https://replay.lsm.lv/lv/klausies/ieraksts/lr/93362/sanitas-reinsones-apmaldisanas-poetika-teikas-stastos-un-sarunas-un-gara-pupa",
+    "source": "Latvijas Radio 3 · Grāmatu stāsti",
+    "related": [
+      "folklore"
+    ],
+    "groups": []
+  },
+  "lsm-250323": {
+    "title": "Pētniece: Mīti par vadātāju rodas, orientieriem pazūdot zināmā vietā",
+    "type": "Raksts",
+    "meta": "16.09.2017 · LSM.lv Ziņu redakcija · LSM.lv",
+    "url": "https://www.lsm.lv/raksts/kultura/kulturtelpa/petniece-miti-par-vadataju-rodas-orientieriem-pazudot-zinama-vieta.a250323/",
+    "source": "LSM.lv",
+    "related": [
+      "folklore"
+    ],
+    "groups": []
+  },
+  "lsm-210363": {
+    "title": "Jaunie zinātnieki stiprai valstij: Sanita Reinsone desmit gadus pētījusi apmaldīšanās stāstus latviešu folklorā",
+    "type": "Raksts",
+    "meta": "16.11.2016 · Māra Rozenberga · LSM.lv",
+    "url": "https://www.lsm.lv/raksts/dzive--stils/tehnologijas-un-zinatne/jaunie-zinatnieki-stiprai-valstij-sanita-reinsone-desmit-gadus-petijusi-apmaldisanas-stastus-latviesu-folklora.a210363/",
+    "source": "LSM.lv",
+    "related": [
+      "folklore"
+    ],
+    "groups": []
+  },
+  "lr-225311": {
+    "title": "Mīklu režģis. Pētnieki aicina atgriezties pie senas latviešu tradīcijas – mīklu minēšanas",
+    "type": "Radio saruna",
+    "meta": "10.11.2026 · Latvijas Radio 1 · Kultūras rondo",
+    "url": "https://replay.lsm.lv/lv/klausies/ieraksts/lr/225311/miklu-rezgis-petnieki-aicina-atgriezties-pie-senas-latviesu-tradicijas-miklu-minesanas",
+    "source": "Latvijas Radio 1 · Kultūras rondo",
+    "related": [
+      "folklore",
+      "infrastructure",
+      "participation"
+    ],
+    "groups": []
+  },
+  "lr-221163": {
+    "title": "Izveidots atvērtais teksta atpazīšanas modelis darbam ar 19.gs. tekstiem latviešu valodā",
+    "type": "Radio saruna",
+    "meta": "08.06.2026 · Latvijas Radio 1 · Starpbrīdis · Agnese Linka, Toms Grēviņš",
+    "url": "https://lr1.lsm.lv/lv/raksts/starpbridis/izveidots-atvertais-teksta-atpazisanas-modelis-darbam-ar-19.gs.-.a221163",
+    "source": "Latvijas Radio 1 · Starpbrīdis",
+    "related": [
+      "language",
+      "infrastructure",
+      "folklore"
+    ],
+    "groups": []
+  },
+  "media-202205": {
+    "title": "Aicina dalīties ar Atmodas laiku pieredzi un atmiņām, kā arī iesaistīties “Balsu talkā”",
+    "type": "Radio saruna",
+    "meta": "27.01.2025 · Latvijas Radio 1 · Toms Grēviņš, Mariona Baltkalne",
+    "url": "https://lr1.lsm.lv/lv/raksts/starpbridis/aicina-dalities-ar-atmodas-laiku-pieredzi-un-atminam-ka-ari-iesa.a202205/",
+    "source": "Latvijas Radio 1",
+    "related": [
+      "memory",
+      "participation",
+      "language"
+    ],
+    "groups": []
+  },
+  "media-338393": {
+    "title": "Aicina palīdzēt pārrakstīt folkloras krātuves arhīvu",
+    "type": "TV sižets",
+    "meta": "01.10.2024 · Latvijas Televīzija",
+    "url": "https://replay.lsm.lv/lv/ieraksts/ltv/338393/aicina-palidzet-parrakstit-folkloras-kratuves-arhivu",
+    "source": "Latvijas Televīzija",
+    "related": [
+      "folklore",
+      "participation",
+      "infrastructure"
+    ],
+    "groups": []
+  },
+  "media-326203": {
+    "title": "Digitālais projekts “Balsu talka”",
+    "type": "TV sižets",
+    "meta": "05.04.2024 · Latvijas Televīzija",
+    "url": "https://replay.lsm.lv/lv/ieraksts/ltv/326203/digitalais-projekts-balsu-talka",
+    "source": "Latvijas Televīzija",
+    "related": [
+      "language",
+      "participation"
+    ],
+    "groups": []
+  },
+  "media-189984": {
+    "title": "Ja tu dzīvo sabiedrībā, tu vari būt zinātnieks",
+    "type": "Radio saruna",
+    "meta": "28.03.2024 · Radio NABA · Ivars Austers",
+    "url": "https://naba.lsm.lv/lv/raksts/zinatnes-varda/ja-tu-dzivo-sabiedriba-tu-vari-but-zinatnieks.a189984/",
+    "source": "Radio NABA",
+    "related": [
+      "participation"
+    ],
+    "groups": []
+  },
+  "media-180868": {
+    "title": "Ukrainas zinātnieki Latvijā",
+    "type": "Radio saruna",
+    "meta": "04.09.2023 · Latvijas Radio 1 · Mariona Baltkalne",
+    "url": "https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/ukrainas-zinatnieki-latvija.a180868",
+    "source": "Latvijas Radio 1",
+    "related": [
+      "participation"
+    ],
+    "groups": []
+  },
+  "media-159852": {
+    "title": "Pieredzes stāsti nākamajām paaudzēm: veidot dzimtas kokus, ekskursijas uz bērnības vietām",
+    "type": "Radio saruna",
+    "meta": "04.05.2022 · Latvijas Radio 1 · Ilze Zvaigzne, Mairita Znotiņa",
+    "url": "https://lr1.lsm.lv/lv/raksts/gimenes-studija/pieredzes-stasti-nakamajam-paaudzem-veidot-dzimtas-kokus-ekskurs.a159852/",
+    "source": "Latvijas Radio 1",
+    "related": [
+      "memory"
+    ],
+    "groups": []
+  },
+  "media-159475": {
+    "title": "Aicina centralizēt palīdzības piedāvājumus Ukrainas zinātniekiem",
+    "type": "Radio saruna",
+    "meta": "22.04.2022 · Latvijas Radio 1 · Agnese Linka, Ilze Puncule-Aginta",
+    "url": "https://lr1.lsm.lv/lv/raksts/pecpusdiena/aicina-centralizet-palidzibas-piedavajumus-ukrainas-zinatniekiem.a159475/",
+    "source": "Latvijas Radio 1",
+    "related": [
+      "participation"
+    ],
+    "groups": []
+  },
+  "media-157300": {
+    "title": "Latviešu zinātnieki palīdz zinātniekiem no Ukrainas, meklējot iespējas strādāt svešumā",
+    "type": "Radio saruna",
+    "meta": "15.03.2022 · Latvijas Radio 1 · Mariona Baltkalne, Sandra Kropa",
+    "url": "https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/latviesu-zinatnieki-palidz-zinatniekiem-no-ukrainas-meklejot-ies.a157300/",
+    "source": "Latvijas Radio 1",
+    "related": [
+      "participation"
+    ],
+    "groups": []
+  },
+  "media-151101": {
+    "title": "Grāmata “100 kartes pirms Latvijas valsts” ilustrē dažādus Latvijā notikušus procesus",
+    "type": "Radio saruna",
+    "meta": "01.11.2021 · Latvijas Radio 1 · Paula Gulbinska, Sandra Kropa",
+    "url": "https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/gramata-100-kartes-pirms-latvijas-valsts-ilustre-dazadus-latvija.a151101",
+    "source": "Latvijas Radio 1",
+    "related": [
+      "infrastructure"
+    ],
+    "groups": []
+  },
+  "media-208167": {
+    "title": "Aicina rakstīt par savu pieredzi Vardarbības arhīvā",
+    "type": "TV sižets",
+    "meta": "15.01.2021 · Latvijas Televīzija",
+    "url": "https://ltv.lsm.lv/lv/raksts/15.01.2021-aicina-rakstit-par-savu-pieredzi-vardarbibas-arhiva.id208167/",
+    "source": "Latvijas Televīzija",
+    "related": [
+      "memory",
+      "participation"
+    ],
+    "groups": []
+  },
+  "media-128475": {
+    "title": "Pagātnes balss mūsdienu noformējumā – Emīla Pudeļa simtgadīgā dienasgrāmata",
+    "type": "Radio saruna",
+    "meta": "06.04.2020 · Latvijas Radio 3 · Ilze Medne",
+    "url": "https://klasika.lsm.lv/lv/raksts/parmijas/socialajos-tiklos-tiek-publiceta-100-gadu-sena-dienasgramata.a128475/",
+    "source": "Latvijas Radio 3",
+    "related": [
+      "memory"
+    ],
+    "groups": []
+  },
+  "media-127968": {
+    "title": "“Pandēmijas dienasgrāmata”: žurnāls “Punctum” aicina dokumentēt šo laiku",
+    "type": "Radio saruna",
+    "meta": "24.03.2020 · Latvijas Radio 1",
+    "url": "https://lr1.lsm.lv/lv/raksts/kulturas-rondo/pandemijas-dienasgramata-zurnals-punctum-aicina-dokumentet-so-la.a127968/",
+    "source": "Latvijas Radio 1",
+    "related": [
+      "memory",
+      "participation"
+    ],
+    "groups": []
+  },
+  "media-127994": {
+    "title": "Pandēmijas dienasgrāmatas",
+    "type": "Radio saruna",
+    "meta": "24.03.2020 · Latvijas Radio 3 · Odisejs Kostanda",
+    "url": "https://klasika.lsm.lv/lv/raksts/parmijas/sanita-reinsone-par-punctum-un-lu-projektu-pandemijas-dienasgram.a127994/",
+    "source": "Latvijas Radio 3",
+    "related": [
+      "memory",
+      "participation"
+    ],
+    "groups": []
+  },
+  "lr-119062": {
+    "title": "Satikšanās ar dienasgrāmatas starpniecību mēdz mainīt uzskatus par vecākiem",
+    "type": "Radio saruna",
+    "meta": "25.06.2019 · Latvijas Radio 1 · Ģimenes studija · Agnese Linka, Ilze Zvaigzne",
+    "url": "https://lr1.lsm.lv/lv/raksts/gimenes-studija/satiksanas-ar-dienasgramatas-starpniecibu-medz-mainit-uzskatus-p.a119062/",
+    "source": "Latvijas Radio 1 · Ģimenes studija",
+    "related": [
+      "memory"
+    ],
+    "groups": []
+  },
+  "lr-118753": {
+    "title": "Pētnieki aicina apmeklēt digitālās koprades platformu “Iesaisties.lv”",
+    "type": "Radio saruna",
+    "meta": "13.06.2019 · Latvijas Radio 1 · Kultūras rondo · Ingvilda Strautmane, Santa Lauga, Zigfrīds Muktupāvels",
+    "url": "https://lr1.lsm.lv/lv/raksts/kulturas-rondo/atklas-digitalas-koprades-platformu-iesaisties.lv.a118753/",
+    "source": "Latvijas Radio 1 · Kultūras rondo",
+    "related": [
+      "infrastructure",
+      "participation",
+      "folklore"
+    ],
+    "groups": []
+  },
+  "media-304521": {
+    "title": "Pētniece atrisina 70 gadus senu «nezināmās meitenes» dienasgrāmatas mīklu",
+    "type": "Raksts",
+    "meta": "30.12.2018 · LSM.lv · Māra Rozenberga",
+    "url": "https://www.lsm.lv/raksts/dzive--stils/vesture/petniece-atrisina-70-gadus-senu-nezinamas-meitenes-dienasgramatas-miklu.a304521/",
+    "source": "LSM.lv",
+    "related": [
+      "memory"
+    ],
+    "groups": []
+  },
+  "lr-111729": {
+    "title": "Folkloras pētniece un rakstniece Sanita Reinsone",
+    "type": "Radio saruna",
+    "meta": "24.11.2018 · Radio NABA · Bron-Hīts",
+    "url": "https://naba.lsm.lv/lv/raksts/bronhits/folkloras-petniece-un-rakstniece-sanita-reinsone.a111729/",
+    "source": "Radio NABA · Bron-Hīts",
+    "related": [
+      "memory",
+      "folklore"
+    ],
+    "groups": []
+  },
+  "media-101524": {
+    "title": "Folkloras pētījumi mūsdienās. Dārgumi LU Folkloras krātuves digitālajā arhīvā",
+    "type": "Radio saruna",
+    "meta": "26.03.2018 · Latvijas Radio 1 · Sandra Kropa",
+    "url": "https://lr1.lsm.lv/lv/raksts/zinamais-nezinamaja/folkloras-petijumi-musdienas.-dargumi-lu-folkloras-kratuves-digi.a101524/",
+    "source": "Latvijas Radio 1",
+    "related": [
+      "infrastructure",
+      "folklore"
+    ],
+    "groups": []
+  },
+  "autobiography-corpus": {
+    "title": "Corpus of Latvian Autobiographies",
+    "type": "Datu kopa",
+    "meta": "Reinsone, S., Matulis, H., Ļaksa-Timinska, I., & Žvarte, E. (2025). Corpus of Latvian Autobiographies [Datu kopa]. Institute of Literature, Folklore and Art of the University of Latvia; Digital Humanities Center of the University of Latvia. https://hdl.handle.net/20.500.12574/145",
+    "url": "https://hdl.handle.net/20.500.12574/145",
+    "source": "CLARIN repozitorija ieraksts",
+    "related": [
+      "memory",
+      "infrastructure"
+    ],
+    "groups": [],
+    "description": "74 autobiogrāfiju, dzīvesstāstu un atmiņu teksti latviešu valodā, rakstīti 1900.–2024. gadā. CLARIN repozitorijā deponēti metadati; tekstus iespējams analizēt NoSketch Engine. Licence: CC BY 4.0.",
+    "corpus_url": "https://nosketch.korpuss.lv/#dashboard?corpname=autobio",
+    "sort_date": "07.07.2025",
+    "bibliography": {
+      "authors_year": "Reinsone, S., Matulis, H., Ļaksa-Timinska, I., & Žvarte, E. (2025).",
+      "descriptor": "Datu kopa",
+      "tail_html": "Institute of Literature, Folklore and Art of the University of Latvia; Digital Humanities Center of the University of Latvia.",
+      "doi": "",
+      "reference_html": "Reinsone, S., Matulis, H., Ļaksa-Timinska, I., &amp; Žvarte, E. (2025). <em>Corpus of Latvian Autobiographies</em> [Datu kopa]. Institute of Literature, Folklore and Art of the University of Latvia; Digital Humanities Center of the University of Latvia. https://hdl.handle.net/20.500.12574/145"
+    },
+    "primary_topic": "memory"
+  },
+  "pandemic-diaries-corpus": {
+    "title": "Corpus of Latvian Pandemic Diaries 2020–2021",
+    "type": "Datu kopa",
+    "meta": "Reinsone, S., Ļaksa-Timinska, I., & Jaudzema, J. (2021). Corpus of Latvian Pandemic Diaries 2020–2021 [Datu kopa]. Institute of Literature, Folklore and Art of the University of Latvia. https://hdl.handle.net/20.500.12574/48",
+    "url": "https://hdl.handle.net/20.500.12574/48",
+    "source": "CLARIN repozitorija ieraksts",
+    "related": [
+      "memory",
+      "infrastructure"
+    ],
+    "groups": [],
+    "description": "Pandēmijas dienasgrāmatas latviešu valodā: 238 autoru teksta faili ar ierakstu datumiem. Šī CLARIN datu kopas versija aptver 2020.–2021. gadu. Licence: CC BY-SA 4.0.",
+    "corpus_url": "https://nosketch.lnb.lv/#dashboard?corpname=pandemijas_dienasgramatas",
+    "sort_date": "2021",
+    "bibliography": {
+      "authors_year": "Reinsone, S., Ļaksa-Timinska, I., & Jaudzema, J. (2021).",
+      "descriptor": "Datu kopa",
+      "tail_html": "Institute of Literature, Folklore and Art of the University of Latvia.",
+      "doi": "",
+      "reference_html": "Reinsone, S., Ļaksa-Timinska, I., &amp; Jaudzema, J. (2021). <em>Corpus of Latvian Pandemic Diaries 2020–2021</em> [Datu kopa]. Institute of Literature, Folklore and Art of the University of Latvia. https://hdl.handle.net/20.500.12574/48"
+    },
+    "primary_topic": "memory"
+  },
+  "linnaea": {
+    "title": "LINNAEA",
+    "type": "Projekts",
+    "meta": "2026–2029 · Latvijas Universitāte – projekta partnere un WP3 vadītāja",
+    "sort_date": "01.10.2026",
+    "is_new": true,
+    "status": "approved",
+    "primary_topic": "memory",
+    "related": [
+      "memory",
+      "infrastructure"
+    ],
+    "groups": [],
+    "project": {
+      "id": "linnaea",
+      "short_name": "LINNAEA",
+      "full_name": "Intergenerational resilience stories strengthening EU preparedness at European borderland HEIs",
+      "period": "2026–2029",
+      "dates": "01.10.2026.–31.05.2029.",
+      "programme": "Erasmus+ KA220-HED",
+      "funding": "",
+      "role": "",
+      "coordinator": "Turku Universitāte",
+      "partners": "",
+      "identifier": "",
+      "institution_role": "Latvijas Universitāte – projekta partnere un WP3 vadītāja",
+      "url": "",
+      "original_text": "2026–2029: LINNAEA – Intergenerational resilience stories strengthening EU preparedness at European borderland HEIs. Erasmus+ KA220-HED. Koordinators: Turku Universitāte. Latvijas Universitāte – projekta partnere un WP3 vadītāja.",
+      "summary": "Augstskolu un vietējo kopienu sadarbība, starppaaudžu pieredzes stāstu dokumentēšana un digitālu mācību resursu veidošana. WP3 ietver stāstu laboratorijas, digitālo saglabāšanu un radošo interpretāciju.",
+      "sort_date": "01.10.2026",
+      "facts": [
+        [
+          "Pilnais nosaukums",
+          "Intergenerational resilience stories strengthening EU preparedness at European borderland HEIs"
+        ],
+        [
+          "Periods",
+          "01.10.2026.–31.05.2029."
+        ],
+        [
+          "Programma",
+          "Erasmus+ KA220-HED"
+        ],
+        [
+          "Koordinators",
+          "Turku Universitāte"
+        ],
+        [
+          "LU loma",
+          "Latvijas Universitāte – projekta partnere un WP3 vadītāja"
+        ]
+      ]
+    }
+  },
+  "wordplay2024-talk": {
+    "title": "Strategic Insights in Human and Large Language Model Tactics at Word Guessing Games",
+    "type": "Priekšlasījums",
+    "meta": "16.08.2024. · Matīss Rikters, Sanita Reinsone · 4th Wordplay: When Language Meets Games @ ACL 2024 · Bangkoka, Taizeme",
+    "sort_date": "16.08.2024",
+    "related": [
+      "language"
+    ],
+    "groups": [
+      [
+        "Publikācijas",
+        [
+          "wordgame-strategies"
+        ]
+      ]
+    ],
+    "url": "https://aaa.underline.io/lecture/104254-strategic-insights-in-human-and-large-language-model-tactics-at-word-guessing-games",
+    "source": "Priekšlasījuma ieraksts"
+  },
+  "publication-62": {
+    "title": "Remote opportunities for scholars in Ukraine",
+    "type": "Vēstule redakcijai",
+    "sort_date": "22.12.2022",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Iniciatīvas",
+        [
+          "scienceforukraine"
+        ]
+      ]
+    ],
+    "url": "https://doi.org/10.1126/science.adg0797"
+  },
+  "publication-66": {
+    "title": "Funding databases for Ukrainian academics",
+    "type": "Vēstule redakcijai",
+    "sort_date": "28.07.2022",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Iniciatīvas",
+        [
+          "scienceforukraine"
+        ]
+      ]
+    ],
+    "url": "https://doi.org/10.1126/science.add9155"
+  },
+  "publication-70": {
+    "title": "Addressing the needs of Ukrainian scholars at risk",
+    "type": "Vēstule redakcijai",
+    "sort_date": "25.05.2022",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Iniciatīvas",
+        [
+          "scienceforukraine"
+        ]
+      ]
+    ],
+    "url": "https://doi.org/10.1038/s41562-022-01387-7"
+  },
+  "nature-sfu-2024": {
+    "title": "The grassroots organizations continuing the fight for Ukrainian science",
+    "type": "Raksts",
+    "meta": "11.09.2024 · Oscar Allan · Nature",
+    "url": "https://www.nature.com/articles/d41586-024-02957-7",
+    "source": "Nature",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Iniciatīvas",
+        [
+          "scienceforukraine"
+        ]
+      ]
+    ]
+  },
+  "nature-sfu-2023": {
+    "title": "The fight to keep Ukrainian science alive through a year of war",
+    "type": "Raksts",
+    "meta": "22.02.2023 · Aisling Irwin · Nature",
+    "url": "https://www.nature.com/articles/d41586-023-00508-0",
+    "source": "Nature",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Iniciatīvas",
+        [
+          "scienceforukraine"
+        ]
+      ]
+    ]
+  },
+  "science-sfu-2022": {
+    "title": "Ukrainian researchers flee trauma and terror of war",
+    "type": "Raksts",
+    "meta": "14.03.2022 · Richard Stone · Science · ScienceInsider",
+    "url": "https://www.science.org/content/article/ukrainian-researchers-flee-trauma-and-terror-war",
+    "source": "Science · ScienceInsider",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Iniciatīvas",
+        [
+          "scienceforukraine"
+        ]
+      ]
+    ]
+  },
+  "nature-sfu-2022": {
+    "title": "‘I thought I had forgotten this horror’: Ukrainian scientists stand in defiance",
+    "type": "Raksts",
+    "meta": "02.03.2022 · Nisha Gaind, Holly Else, Antoaneta Roussi · Nature",
+    "url": "https://www.nature.com/articles/d41586-022-00621-6",
+    "source": "Nature",
+    "related": [
+      "participation"
+    ],
+    "groups": [
+      [
+        "Iniciatīvas",
+        [
+          "scienceforukraine"
+        ]
+      ]
+    ]
+  },
+  "sief2025-diaries": {
+    "title": "Archiving the Nonverbal in Pandemic Diaries",
+    "type": "Priekšlasījums",
+    "meta": "05.06.2025 · Ilze Ļaksa-Timinska, Sanita Reinsone, Haralds Matulis, Elvīra Žvarte · SIEF2025: Unwriting · Aberdīna, Skotija",
+    "sort_date": "05.06.2025",
+    "primary_topic": "memory",
+    "related": [
+      "memory",
+      "infrastructure",
+      "participation"
+    ],
+    "url": "https://nomadit.co.uk/conference/sief2025/paper/89530",
+    "source": "SIEF programma un tēzes",
+    "groups": [
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "autobiography"
+        ]
+      ],
+      [
+        "Datu kopas",
+        [
+          "pandemic-diaries-corpus"
+        ]
+      ]
+    ]
+  },
+  "open": {
+    "title": "ȬPEN",
+    "type": "Projekts",
+    "meta": "2026–2028 · Projekta vadītāja",
+    "sort_date": "2026",
+    "primary_topic": "language",
+    "url": "https://www.hzf.lu.lv/petnieciba/projekti/open/",
+    "source": "Projekta mājaslapa",
+    "related": [
+      "language",
+      "infrastructure",
+      "participation"
+    ],
+    "groups": []
+  },
+  "simtgades-burtnieki": {
+    "title": "Simtgades burtnieki",
+    "type": "Sabiedriskās zinātnes kampaņa",
+    "meta": "Kopš 2016. gada · Folkloras manuskriptu atšifrēšanas kampaņa.",
+    "url": "https://dhnb.eu/projects/crowdsourcing-platform-for-folklore-manuscript-transcription/",
+    "source": "Par kampaņu",
+    "related": [
+      "participation",
+      "folklore",
+      "infrastructure"
+    ],
+    "primary_topic": "participation",
+    "groups": [
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "garamantas"
+        ]
+      ],
+      [
+        "Publikācijas",
+        [
+          "garamantaspaper"
+        ]
+      ]
+    ],
+    "sort_date": "2016"
+  },
+  "autobiography-campaign": {
+    "title": "Autobiogrāfiju krājuma kampaņas",
+    "type": "Sabiedriskās zinātnes kampaņa",
+    "meta": "Sabiedrības iesaiste autobiogrāfisko materiālu vākšanā, digitalizēšanā un rokrakstu atšifrēšanā.",
+    "url": "https://autobiografijas.lv/",
+    "source": "Par kampaņu",
+    "related": [
+      "participation",
+      "memory"
+    ],
+    "primary_topic": "participation",
+    "groups": [
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "autobiography"
+        ]
+      ],
+      [
+        "Datu kopas",
+        [
+          "autobiography-corpus"
+        ]
+      ],
+      [
+        "Publikācijas",
+        [
+          "beyond"
+        ]
+      ],
+      [
+        "Uzstāšanās",
+        [
+          "iaba2019-autobiography"
+        ]
+      ]
+    ]
+  },
+  "iesaisties-campaigns": {
+    "title": "iesaisties.lv kampaņas",
+    "type": "Sabiedriskās zinātnes kampaņa",
+    "meta": "Sabiedrības iesaiste humanitāro un mākslas zinātņu pētījumos: manuskriptu pārrakstīšana, ieskaņošana un materiālu papildināšana.",
+    "url": "https://iesaisties.lv/",
+    "source": "Par kampaņu",
+    "related": [
+      "participation",
+      "folklore",
+      "memory"
+    ],
+    "primary_topic": "participation",
+    "groups": [
+      [
+        "Digitālās platformas",
+        [
+          "iesaisties"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "autobiography-campaign",
+          "balsutalka",
+          "simtgades-burtnieki"
+        ]
+      ],
+      [
+        "Publikācijas",
+        [
+          "iesaistiespaper"
+        ]
+      ]
+    ]
+  },
+  "pandemic-diaries-campaign": {
+    "title": "Pandēmijas dienasgrāmatu kampaņa",
+    "type": "Sabiedriskās zinātnes kampaņa",
+    "meta": "2020–2021 · Aicinājums rakstīt un iesūtīt dienasgrāmatas par ikdienas pieredzi pandēmijā.",
+    "url": "https://lfk.lv/Aicinam-rakstit-pandemijas-dienasgramatas",
+    "source": "Par kampaņu",
+    "related": [
+      "participation",
+      "memory"
+    ],
+    "primary_topic": "participation",
+    "groups": [
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "autobiography"
+        ]
+      ],
+      [
+        "Datu kopas",
+        [
+          "pandemic-diaries-corpus"
+        ]
+      ],
+      [
+        "Publikācijas",
+        [
+          "covidchapter",
+          "uncertainty"
+        ]
+      ],
+      [
+        "Publicitāte",
+        [
+          "diaryradio"
+        ]
+      ]
+    ],
+    "sort_date": "2020"
+  },
+  "iaba2019-autobiography": {
+    "title": "Rethinking the role of communication in creation of the Autobiography collection",
+    "type": "Priekšlasījums",
+    "meta": "19.–21.06.2019 · Sanita Reinsone · IABA Europe: Knowing the Self · Madride, Spānija",
+    "sort_date": "19.06.2019",
+    "primary_topic": "memory",
+    "related": [
+      "memory",
+      "participation"
+    ],
+    "url": "https://lulfmi.lv/files/dokumenti/LU_LFMI_gada_parskats_2019.pdf#page=62",
+    "source": "LU LFMI 2019. gada pārskats · referātu saraksts",
+    "groups": [
+      [
+        "Digitālie resursi un krājumi",
+        [
+          "autobiography"
+        ]
+      ],
+      [
+        "Sabiedriskās zinātnes aktivitātes",
+        [
+          "autobiography-campaign"
+        ]
+      ]
+    ]
+  },
+  "citizen-science-award": {
+    "title": "European Citizen Science Award – Honorary Mention",
+    "type": "Atzinība",
+    "meta": "2024 · Atzinība LU LFMI DH grupas projektam iesaisties.lv · Projekta vadītāja",
+    "sort_date": "2024",
+    "related": [
+      "participation"
+    ],
+    "groups": []
+  },
+  "woman-leader-award": {
+    "title": "Gada balva sievietei – līderei",
+    "type": "Balva",
+    "meta": "2023 · Sieviešu sadarbības tīkls",
+    "sort_date": "2023",
+    "related": [
+      "participation"
+    ],
+    "groups": []
+  },
+  "cabinet-recognition": {
+    "title": "Latvijas Republikas Ministru kabineta atzinības raksts",
+    "type": "Atzinības raksts",
+    "meta": "2022 · Par nozīmīgu ieguldījumu zinātniskās sadarbības un koprades veicināšanā",
+    "sort_date": "2022",
+    "related": [
+      "participation"
+    ],
+    "groups": []
+  },
+  "rector-recognition": {
+    "title": "Latvijas Universitātes rektora atzinība",
+    "type": "Atzinība",
+    "meta": "2022",
+    "sort_date": "2022",
+    "related": [
+      "participation"
+    ],
+    "groups": []
+  }
+}
