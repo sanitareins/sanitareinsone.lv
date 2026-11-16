@@ -135,6 +135,7 @@ Alūksnes novada bibliotēka, Bērnu apkalpošanas nodaļa	Alūksne Municipal Li
 Berģu Mūzikas un mākslas pamatskola	Berģi Music and Art Primary School
 Carnikavas novada bibliotēka	Carnikava Municipal Library
 Carnikavas bibliotēka	Carnikava Library
+Carnikavas skola	Carnikava High School
 Cēsu Centrālā bibliotēka	Cēsis Central Library
 Gulbenes novada bibliotēkas Bērnu apkalpošanas nodaļa	Gulbene Municipal Library, Children’s Department
 Gulbenes novada bibliotēka	Gulbene Municipal Library
