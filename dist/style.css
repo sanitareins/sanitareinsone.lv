@@ -347,3 +347,5 @@ h2{font-size:clamp(32px,3.6vw,46px);line-height:1.15;letter-spacing:-.035em}.sec
 
 /* Only expand cards that offer additional content. */
 .graph-unit--static .graph-unit-button{cursor:default}.graph-unit--static .graph-unit-meta,.graph-unit:has(.graph-project-link) .graph-unit-meta{display:block;-webkit-line-clamp:unset;overflow:visible}.graph-detail-top>button[data-close-detail]{display:grid;place-items:center;width:36px;height:36px;padding:6px;border:0;border-radius:50%;cursor:pointer}.graph-detail-top>button[data-close-detail]:hover{background:#eee;color:#234bff}
+
+.meeting-year-group>summary>.meeting-year{flex:1}

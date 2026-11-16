@@ -1,6 +1,7 @@
 """Complete collected meeting catalogue; private calendar details stay in source data."""
 import json,re,html
 from pathlib import Path
+from collections import Counter
 from chronology import date_key
 
 def display_date(r):
@@ -18,12 +19,13 @@ def catalogue():
  groups=[('Tikšanās, lasījumi un sarunas',[r for r in records if r['id'] not in professional|{'SR-036','SR-037'}]),('Publiskas lekcijas, semināri un diskusijas',[r for r in records if r['id'] in professional])]
  e=html.escape;out=''
  for label,items in groups:
+  counts=Counter(str(date_key(display_date(r))[0]) if date_key(display_date(r))[0] else 'Datums precizējams' for r in items)
   out+='<section class="meeting-group"><h2>'+label+'</h2>';year=None
   for r in sorted(items,key=lambda r:date_key(display_date(r)),reverse=True):
    date=display_date(r);current=str(date_key(date)[0]) if date_key(date)[0] else 'Datums precizējams'
    if current!=year:
     if year is not None:out+='</div></details>'
-    out+='<details class="meeting-year-group"'+(' open' if current=='2026' else '')+'><summary><h3 class="meeting-year">'+current+'</h3><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary><div class="meeting-list">';year=current
+    out+='<details class="meeting-year-group"'+(' open' if current=='2026' else '')+'><summary><h3 class="meeting-year">'+current+'</h3><span class="media-group-count">'+str(counts[current])+'</span><svg width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 9 6 6 6-6"/></svg></summary><div class="meeting-list">';year=current
    place=r['place'].split(', Avenue')[0].split(', Rue')[0]
    place=re.sub(r';[^;]*jāprecizē','',place).replace(' (pēc kalendāra apraksta)','').replace(' (saīsinājums kalendārā)','')
    if r['id']=='USR-003':place='Berģu Mūzikas un mākslas pamatskola'
