@@ -228,7 +228,7 @@ Klausīties 2. daļu	Listen to part 2
 12 sievietes par dzīvi mājās, mežā, cietumā	12 women on life at home, in the forest and in prison
 Mazsalaciešu dzīve, tikumi un ieradumi Ā. Purmaļa autobiogrāfijā 19. un 20. gs. mijā	Life, customs and habits in Mazsalaca in Ā. Purmalis’s autobiography at the turn of the 20th century
 Kā Igaunijas leļļi bēga uz Latviju	How Estonian dolls escaped to Latvia
-Skola / divas mācību stundas	School / two lessons
+Skola / divas mācību stundas	School
 Skola / sākumskola	School / primary classes
 Skola / tikšanās ar autori	School / author visit
 Tikšanās ar skolēniem Briselē: Uccle	Meeting with students in Brussels: Uccle
