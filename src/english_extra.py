@@ -314,3 +314,9 @@ PAIRS+='''
 Atvērt izvēlni	Open menu
 Aizvērt izvēlni	Close menu
 '''
+
+PAIRS+='''
+Baltijas digitālo humanitāro zinātņu vasaras skola (BSSDH)	Baltic Summer School of Digital Humanities (BSSDH)
+. Rīga. Ik gadu piedalos vasaras skolas organizēšanā.	. Riga. I take part in organising the summer school every year.
+. Rīga. Līdzorganizatore.	. Riga. Co-organiser.
+'''
