@@ -131,7 +131,7 @@ function drawWires(){
    const nx=command==='H'?+tokens[i++]:x,ny=command==='V'?+tokens[i++]:y,size=Math.abs(nx-x)+Math.abs(ny-y);
    if(size)segments.push({y,ny,size});length+=size;x=nx;y=ny;
   }
-  scrollWires.push({key:e.key,ink,dot,segments,length,startY,network,current:previous.get(e.key)?.current??wireProgress.get(e.key)??0});
+  scrollWires.push({key:e.key,ink,dot,segments,length,startY,endY:e.y,dotVisible:previous.get(e.key)?.dotVisible||false,network,current:previous.get(e.key)?.current??wireProgress.get(e.key)??0});
  }
  for(const group of existing.values()){defs.querySelector('#'+group.dataset.mask)?.remove();group.remove();}
  scheduleWires();
@@ -140,7 +140,10 @@ function scheduleWires(){if(!wireFrame)wireFrame=requestAnimationFrame(updateScr
 function updateScrollWires(){
  wireFrame=0;if(!scrollWires.length)return;
  const reduced=matchMedia('(prefers-reduced-motion: reduce)').matches;
- const frontier=window.innerHeight*.76-scrollWires[0].network.getBoundingClientRect().top;
+ const networkTop=scrollWires[0].network.getBoundingClientRect().top;
+ const frontier=window.innerHeight*.76-networkTop;
+ const mobile=matchMedia('(max-width: 750px)').matches;
+ const dotFrontier=window.innerHeight-24-networkTop;
  let moving=false;
  for(const w of scrollWires){
   let visible=0;
@@ -157,7 +160,10 @@ function updateScrollWires(){
   w.current=reduced?1:w.current+(goal-w.current)*.12;
   if(Math.abs(goal-w.current)<.0005)w.current=goal;else moving=true;
   w.ink.setAttribute('stroke-dashoffset',1-w.current);
-  w.dot.setAttribute('opacity',w.current>=.999?1:0);
+  // On small screens, show the endpoint as soon as its text enters view.
+  // The slower line animation continues independently.
+  if(mobile&&dotFrontier>=w.endY)w.dotVisible=true;
+  w.dot.setAttribute('opacity',(reduced||(mobile?w.dotVisible:w.current>=.999))?1:0);
  }
  if(moving)scheduleWires();
 }
