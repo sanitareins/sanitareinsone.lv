@@ -11,6 +11,7 @@ def past_label(p):
   day,month,year=map(int,dates[-1]);ended=date(year,month,day)<date.today()
  else:
   years=re.findall(r'(?:19|20)\d{2}',p.get('period',''));ended=bool(years) and int(years[-1])<date.today().year
+ if p.get('status')=='completed':ended=True
  return 'Noslēdzies projekts'+(' · '+p['period'] if p.get('period') else '') if ended else ''
 def status_marker(label):
  if not label:return ''
